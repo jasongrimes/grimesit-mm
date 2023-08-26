@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jason Grimes"
-  avatar : "/assets/images/jg-headshot-square.jpg"
+  avatar : "/assets/images/jg-headshot-square-small.jpg"
   bio    : "More than a full-stack developer."
   links:
     - label: "Website"
