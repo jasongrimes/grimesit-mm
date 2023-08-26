@@ -19,10 +19,10 @@ email: contact@grimesit.com
 description: >- # this means to ignore newlines until "baseurl:"
   Make your SaaS scalable with an experienced development partner 
   who can modernize, secure, and scale your JavaScript or PHP web application.
-twitter_username: jason_grimes
 github_username: jasongrimes
+#twitter_username: jason_grimes
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -61,6 +61,7 @@ author:
   name   : "Jason Grimes"
   avatar : "/assets/images/jg-headshot-iceland.png"
   bio    : "More than a full-stack developer."
+  location: "Raleigh, NC"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
