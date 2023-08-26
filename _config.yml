@@ -63,15 +63,15 @@ author:
   bio    : "More than a full-stack developer."
   location: "Raleigh, NC"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://grimesit.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jasongrimes"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jasonkgrimes/"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://grimesit.com"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/jason_grimes"
@@ -100,7 +100,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
