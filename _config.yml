@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Grimes IT, LLC
-subtitle: "Creator of fine information technology."
+subtitle: "Creator of fine technology."
 email: contact@grimesit.com
 description: >- # this means to ignore newlines until "baseurl:"
   Make your SaaS scalable with an experienced development partner 
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jason Grimes"
-  avatar : "/assets/images/jg-headshot-square-small.jpg"
+  avatar : "/assets/images/jg-headshot-iceland.jpg"
   bio    : "More than a full-stack developer."
   links:
     - label: "Website"
