@@ -31,7 +31,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jason Grimes"
-  avatar : "/assets/images/jg-headshot-iceland.jpg"
+  avatar : "/assets/images/jg-headshot-iceland.png"
   bio    : "More than a full-stack developer."
   links:
     - label: "Website"
