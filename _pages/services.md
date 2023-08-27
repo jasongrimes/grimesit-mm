@@ -5,13 +5,11 @@ classes: wide
 service_code:
   - image_path: /assets/images/code-feature.png
     alt: "development service"
-    title: "Full-stack web development"
     excerpt: >-
         Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 service_infrastructure:
   - image_path: /assets/images/infrastructure-feature.png
     alt: "infrastructure service"
-    title: "Web infrastructure"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     # url: "#test-link"
     # btn_label: "Read More"
@@ -19,7 +17,6 @@ service_infrastructure:
 service_legacy:
   - image_path: /assets/images/legacy-feature.png
     alt: "legacy modernization"
-    title: "Modernizing legacy applications"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     # url: "#test-link"
     # btn_label: "Read More"
@@ -44,16 +41,13 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 ## Web infrastructure
 
-![image-left](/assets/images/infrastructure-feature.png){: .align-left}
-
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+{% include feature_row id="service_infrastructure" type="right" %}
 
 
 ## Modernizing legacy applications
 
-![image-right](/assets/images/legacy-feature.png){: .align-right}
+{% include feature_row id="service_legacy" type="right" %}
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
 
 
