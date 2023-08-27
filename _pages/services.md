@@ -41,7 +41,7 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 ## Web infrastructure
 
-{% include feature_row id="service_infrastructure" type="right" %}
+{% include feature_row id="service_infrastructure" type="left" %}
 
 
 ## Modernizing legacy applications
