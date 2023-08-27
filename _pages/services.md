@@ -1,7 +1,9 @@
 ---
 permalink: /services/
 title: "Services"
-classes: wide
+classes: 
+    - wide
+    - services-page
 service_code:
   - image_path: /assets/images/code-feature.png
     alt: "development service"
