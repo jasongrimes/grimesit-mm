@@ -1,28 +1,6 @@
 ---
 permalink: /services/
 title: "Services"
-classes: 
-    - wide
-    - services-page
-service_code:
-  - image_path: /assets/images/code-feature.png
-    alt: "development service"
-    excerpt: >-
-        Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-service_infrastructure:
-  - image_path: /assets/images/infrastructure-feature.png
-    alt: "infrastructure service"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    # url: "#test-link"
-    # btn_label: "Read More"
-    # btn_class: "btn--primary"
-service_legacy:
-  - image_path: /assets/images/legacy-feature.png
-    alt: "legacy modernization"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    # url: "#test-link"
-    # btn_label: "Read More"
-    # btn_class: "btn--primary"
 ---
 <!-- 
 Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
@@ -30,16 +8,17 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip. -->
 
 
-Grimes IT provides technical services to help grow web-based businesses.
+![full](/assets/images/code-feature.png)
+{: .full}
+Grimes IT provides technical services to grow web-based businesses.
 
 ## Full-stack web development
 
 <!-- {% include feature_row id="service_code" type="right" %} -->
 
-![image-center](/assets/images/code-feature.png){: .align-center}
+<!-- ![image-center](/assets/images/code-feature.png){: .align-center} -->
 
-![full](/assets/images/code-feature.png)
-{: .full}
+
 
 Fundamentally, Grimes IT creates value by developing web applications.
 
@@ -64,11 +43,12 @@ I use other data technologies as needed for specialized purposes, like Redis, El
 I'm deeply familiar with PHP applications, including full-stack frameworks like Symfony, Zend/Laminas, and Laravel, microframeworks and homemade applications, and third-party software like Wordpress and Moodle.
 And I have long experience building and using APIs to integrate distributed systems, including REST and GraphQL.
 
+
+![full](/assets/images/infrastructure-feature.png){: .full}
+
 ## Web infrastructure
 
 <!-- {% include feature_row id="service_infrastructure" type="left" %} -->
-
-![image-left](/assets/images/infrastructure-feature.png){: .align-left}
 
 When I say "full-stack", I mean it. From bare metal to the cloud, servers to VMs, and containers to serverless, I have decades of experience scaling real world web applications. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
 
@@ -76,9 +56,11 @@ I use Docker for streamlined, self-contained development environments, and to en
 
 Judicious use of AWS or other cloud infrastructure can ensure scalability, but it must be carefully considered and planned to avoid cost overruns. Software must be explicitly designed to support horizontal scaling to take advantage of savings opportunities in the cloud.
 
-## Modernizing legacy applications
 
-![image-right](/assets/images/legacy-feature.png){: .align-right}
+
+![full](/assets/images/legacy-feature.png){: .full}
+
+## Modernizing legacy applications
 
 <!-- {% include feature_row id="service_legacy" type="right" %} -->
 
