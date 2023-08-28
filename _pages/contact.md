@@ -3,8 +3,6 @@ permalink: /contact/
 title: "Contact"
 ---
 
-Hi, there! 
+Hi, there! I’m Jason Grimes, owner and Principal Engineer of Grimes IT. ([About](/about/))
 
-I’m Jason Grimes, owner and Principal Engineer of Grimes IT.  
-
-Please [send me an email](mailto:jason+estimate@grimesit.com) about your business needs, and let’s talk about how I can help.
+Please [send me an email](mailto:jason+estimate@grimesit.com) about what your business needs, and let’s talk about how I can help.
