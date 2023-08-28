@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-![image-right](/assets/images/jg-headshot-transparent-250x250.png){: .align-right}
-
 [Grimes IT](/) builds software and provides technical services to web-based businesses. 
 
 I’m Jason Grimes, the owner and Principal Engineer, and I’ve been doing this successfully for a long time.
@@ -16,6 +14,6 @@ After a long and fruitful journey with ProZ, I re-formed my own company as Grime
 
 Though I have no employees, there’s no such thing as a one-man band in business or technology. I turn to my network of friends and experts in systems, design, development, and business as each solution requires.
 
-I'm a fixer. A pragmatist. I like to solve problems--the more challenging, the better. 
+I'm a fixer. A pragmatist. I like to solve problems--the harder the better. 
 
-Is there a problem I can solve for you? Then please [contact me](/contact/).
+Is there a problem I can solve for you? [Contact me](/contact/).
