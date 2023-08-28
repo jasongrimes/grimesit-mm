@@ -61,7 +61,7 @@ And I have long experience building and using distributed APIs to integrate disp
 
 ![image-left](/assets/images/infrastructure-feature.png){: .align-left}
 
-When I say "full-stack", I mean it. From bare metal to the cloud, servers to VMs, and containers to serverless, I have over 20 years experience scaling real world web applications. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
+When I say "full-stack", I mean it. From bare metal to the cloud, servers to VMs, and containers to serverless, I have decades of experience scaling real world web applications. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
 
 I use Docker for streamlined, self-contained development environments, and to ensure identical test and production environments. Orchestration tools like Terraform, Kubernetes, or Docker Swarm can help simplify deployment and infrastructure management.
 
