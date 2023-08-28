@@ -24,7 +24,8 @@ Now I provide technical services to select clients,
 and conduct my own research and development.
 
 Though I have no employees, there is no such thing as a one man band, 
-at least in business or technology. I turn to my network of friends and experts in systems, design, development, and business as each solution requires.
+at least not in business or technology. 
+I turn to my network of friends and experts in systems, design, development, and business as each solution requires.
 
 I'm a fixer. A pragmatist. I like to solve problems--the harder the better. 
 
