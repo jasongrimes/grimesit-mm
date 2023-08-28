@@ -23,9 +23,9 @@ Eventually I went out on my own again,
 to provide technical services to select clients,
 and conduct original research and development.
 
-Though I have no employees, there is no such thing as a one-man band--at least not in business or technology. 
-I turn to my network of friends and experts in systems, design, development, and business as each solution requires.
+Though I have no employees, there is no such thing as a one man band--at least not in business or technology. 
+I turn to my network of friends and experts in systems, design, development, and business as the solution requires.
 
-I'm a fixer. A pragmatist. I like to solve problems that matter--the harder the better. 
+I'm a fixer. A pragmatist. I like to solve problems that matter. 
 
 Do you have a problem I can solve? [Contact me](/contact/).
