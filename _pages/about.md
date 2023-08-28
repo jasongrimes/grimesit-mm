@@ -18,9 +18,10 @@ and in turn the world around them.
 I helped start-up, scale, and operate [ProZ.com](https://www.proz.com/),
 (now the world’s largest network of professional translators and linguists)
 and a good model of a long-term profitable, bootstrapped small business.
-That was successful so I did it a long time,
-but eventually it was just time to go out on my own again. 
-Now I provide technical services to select clients and conduct my own research and development.
+It was successful, so I did it a long time.
+Eventually it felt like time to go out on my own again.
+Now I provide technical services to select clients,
+and conduct my own private research and development.
 
 Though I have no employees, there is no such thing as a one man band, 
 at least in business or technology. I turn to my network of friends and experts in systems, design, development, and business as each solution requires.
