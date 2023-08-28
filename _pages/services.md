@@ -51,10 +51,10 @@ Visual Studio Code and Docker Desktop make it easy to do development this way.
 
 The production infrastructure needeed for running a web application can be purchased on a scale roughly from "most expensive, least effort" to "least expense, most effort". 
 
-For new or experimental applications, full-featured managed **platform** services like Vercel, Heroku, or Digital Ocean can be useful.
+For new or experimental applications, full-featured **managed platform** providers like Vercel, Heroku, or Digital Ocean can be useful.
 But they tend to become overly expensive beyond early stages.
 
-**Managed services** can make sense for specialized management of particularly complex or important parts of the stack like databases. 
+**Managed service** providers can make sense for specialized management of particularly complex or important parts of the stack, like databases. But beware of vendor lock-in.
 
 For everything else, **infrastructure services** like AWS tend to be the most practical and economical choice.
 
@@ -63,14 +63,22 @@ but it's only worth the trouble when an application's resource usage doesn't mat
 
 ### Deployment and dev-ops
 
+Getting finished changes from development into production should be easy,
+and all repetitive quality tasks should be handled by machines, not people.
 
+I like GitHub Actions for automating deployment tasks when changes are pushed to a specific branch.
 
-<!-- 
-![full](/assets/images/legacy-feature.png){: .full} -->
+Build tools: Use javascript by default
+
+In container-based environments, existing orchestration tools like Kubernets, ECS, or docker swarm can be used for deployment.
+
+Testing and monitoring. 
+
+All developers must use a consistent coding style,
+but that coding style should be entirely dictated by industry standard tools like `lint` and `prettier`.
+
 
 ## Modernizing legacy applications
-
-<!-- {% include feature_row id="service_legacy" type="right" %} -->
 
 ### Upgrading ancient LAMP stacks
 
@@ -79,17 +87,17 @@ and 20% of those are still running PHP 5 (which is end-of-life and no longer rec
 
 Hard-earned experience has taught that sites don't stay on PHP 5 because they like it. 
 It can be extremely challenging to upgrade an established legacy site to modern versions of PHP without disrupting the existing application--but it can be done. It takes a well-thought-out migration plan, 
-practical automated testing, mentorship and training, and some patience.
+practical testing and monitoring, mentorship and training, and some patience.
 
 ### Getting the legacy codebase unstuck
 
 Documentation.
 Testing and monitoring.
 Split architecture: the Strangler Fig pattern.
-Encapsulation and API
 Mentorship and training
 
-### Enable and integrate new technologies
+### Integrating new technologies
 
+Encapsulation and API
 
 
