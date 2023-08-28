@@ -36,11 +36,21 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 
 ![image-right](/assets/images/code-feature.png){: .align-right}
 
-Modern web development tends to use JavaScript in order to provide a rich user experience.
-I use client-side JavaScript frameworks like React, Vue, and Angular, often with complementary component frameworks like NextJS and Nuxt to enable server-side magic and provide robust and structured best practice.
+Modern web development means **JavaScript**.
 
-A variety of server-side technologies may work together with the client-side JavaScript.
-Other internal applications may handle business logic and data storage via some kind of API.
+I use client-side JavaScript frameworks like React, Vue, and Angular to provide rich user experiences.
+Additional "batteries included" frameworks like NextJS (for React) and NuxtJS (for Vue) can be helpful to add some server-side magic, and to simplify best practice and architecture decisions. 
+
+Most web applications need more than just JavaScript, though.
+
+**Data** is the core of a web business, and it needs to be stored and used in a secure and efficient way.
+An RDBMS like Postgres or MySQL is often a good choice for the main database,
+though a NoSQL store like MongoDB can have its place.
+I use other data technologies for specialized purposes, like Redis, Elasticsearch, Memcache, and OpenAI.
+
+**Business logic** is often distributed across a variety of other applications and third-party services which need to be integrated.
+I'm deeply familiar with PHP applications, including full-stack frameworks like Symfony, Zend/Laminas, and Laravel, microframeworks and homemade applications, and third-party software like Wordpress and Moodle.
+And I have long experience building and using distributed APIs to integrate disparate systems, including REST and the newer and more efficient GraphQL.
 
 ## Web infrastructure
 
@@ -48,7 +58,7 @@ Other internal applications may handle business logic and data storage via some 
 
 ![image-left](/assets/images/infrastructure-feature.png){: .align-left}
 
-From bare metal to the cloud, servers to VMs, containers to serverless, I have over 20 years experience scaling real world systems. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
+When I say "full-stack", I mean it. From bare metal to the cloud, servers to VMs, and containers to serverless, I have over 20 years experience scaling real world web applications. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
 
 I use Docker for streamlined, self-contained development environments, and to ensure identical test and production environments. Orchestration tools like Terraform, Kubernetes, or Docker Swarm can help simplify deployment and infrastructure management.
 
