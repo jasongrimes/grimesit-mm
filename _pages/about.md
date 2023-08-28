@@ -4,6 +4,7 @@ title: "About"
 ---
 
 [Grimes IT, LLC](/) provides technical services to web-based businesses and conducts original research and development.
+(See [services](/services/).)
 
 I’m Jason Grimes, owner and Principal Engineer. I’ve been doing this for a long time.
 
