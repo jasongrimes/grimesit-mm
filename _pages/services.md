@@ -48,15 +48,23 @@ Other internal applications may handle business logic and data storage via some 
 
 From bare metal to the cloud, servers to VMs, containers to serverless, I have over 20 years experience scaling real world systems. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
 
-I use Docker for streamlined, self-contained development environments, and to ensure identical test and production environments. Orchestration tools like Terraform, Kubernetes, or Docker Swarm help simplify deployment and infrastructure management.
+I use Docker for streamlined, self-contained development environments, and to ensure identical test and production environments. Orchestration tools like Terraform, Kubernetes, or Docker Swarm can help simplify deployment and infrastructure management.
 
+Judicious use of AWS or other cloud infrastructure can ensure scalability, but it must be carefully considered and planned to avoid cost overruns. Software must be explicitly designed to support horizontal scaling to take advantage of savings opportunities in the cloud.
 
 ## Modernizing legacy applications
 
 {% include feature_row id="service_legacy" type="right" %}
 
+Over 75% of websites use PHP, according to [surveys by W3Techs](https://w3techs.com/technologies/details/pl-php),
+and 20% of those are still running PHP 5 (which is end-of-life and no longer receiving security updates).
 
+Hard-earned experience has shown that sites don't stay on PHP 5 because they like it. 
+It can be extremely challenging to upgrade an established legacy site to modern versions of PHP without disrupting the existing application--but it can be done. It takes a well-thought-out migration plan, 
+practical automated testing, mentorship and training, and some patience.
 
-
+Legacy applications typically need to be able to coexist and integrate with newer technologies,
+to take advantage of faster growth with newer technologies,
+while still maintaining the valuable legacy codebase.
 
 
