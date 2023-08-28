@@ -56,7 +56,9 @@ Judicious use of AWS or other cloud infrastructure can ensure scalability, but i
 
 ## Modernizing legacy applications
 
-{% include feature_row id="service_legacy" type="right" %}
+![image-right](/assets/images/legacy-feature.png){: .align-right}
+
+<!-- {% include feature_row id="service_legacy" type="right" %} -->
 
 Over 75% of websites use PHP, according to [surveys by W3Techs](https://w3techs.com/technologies/details/pl-php),
 and 20% of those are still running PHP 5 (which is end-of-life and no longer receiving security updates).
