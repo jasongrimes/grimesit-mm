@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-[Grimes IT](/) provides technical services to web-based businesses and conducts original reasearch and development.
+[Grimes IT, LLC](/) provides technical services to web-based businesses and conducts original reasearch and development.
 
 I’m Jason Grimes, owner and Principal Engineer, and I’ve been doing this for a long time.
 
