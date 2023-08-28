@@ -36,7 +36,7 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 
 ![image-right](/assets/images/code-feature.png){: .align-right}
 
-Modern web development tends to involve JavaScript in order to provide a rich user experience.
+Modern web development tends to use JavaScript in order to provide a rich user experience.
 I use client-side JavaScript frameworks like React, Vue, and Angular, often with complementary component frameworks like NextJS and Nuxt to enable server-side magic and provide robust and structured best practice.
 
 A variety of server-side technologies may work together with the client-side JavaScript.
@@ -44,7 +44,9 @@ Other internal applications may handle business logic and data storage via some 
 
 ## Web infrastructure
 
-{% include feature_row id="service_infrastructure" type="left" %}
+<!-- {% include feature_row id="service_infrastructure" type="left" %} -->
+
+![image-left](/assets/images/infrastructure-feature.png){: .align-left}
 
 From bare metal to the cloud, servers to VMs, containers to serverless, I have over 20 years experience scaling real world systems. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
 
