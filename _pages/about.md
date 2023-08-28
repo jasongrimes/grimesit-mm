@@ -9,7 +9,7 @@ I’m Jason Grimes, owner and Principal Engineer, and I’ve been doing this for
 
 I started out as a network engineer in Silicon Valley in the 1990s, installing computer labs and Internet connections at public schools. Later I was a system administrator, in Unix, Windows, and then upstart Linux. 
 I learned to program in C, C++ and Java. 
-Soon I fell in love with the Internet and focused on web applications. 
+I fell in love with the Internet and focused on web applications. 
 I’ve written productuon PHP and JavaScript since the earliest days of both languages, 
 I've seen conventional wisdom change over time,
 and I’ve enjoyed both languages repeatedly reinventing themselves, 
