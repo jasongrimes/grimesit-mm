@@ -36,7 +36,9 @@ Grimes IT provides technical services to help grow web-based businesses.
 
 <!-- {% include feature_row id="service_code" type="right" %} -->
 
-![image-right](/assets/images/code-feature.png){: .align-right}
+<!-- ![image-center](/assets/images/service-webdev.jpg){: .align-center} -->
+![full](/assets/images/service-webdev.jpg)
+{: .full}
 
 Fundamentally, Grimes IT creates value by developing web applications.
 
