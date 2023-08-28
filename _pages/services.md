@@ -36,12 +36,19 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 
 ![image-right](/assets/images/code-feature.png){: .align-right}
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa. 
+Modern web development tends to involve JavaScript in order to provide a rich user experience.
+I use client-side JavaScript frameworks like React, Vue, and Angular, often with complementary component frameworks like NextJS and Nuxt to enable server-side magic and provide robust and structured best practice.
 
+A variety of server-side technologies may work together with the client-side JavaScript.
+Other internal applications may handle business logic and data storage via some kind of API.
 
 ## Web infrastructure
 
 {% include feature_row id="service_infrastructure" type="left" %}
+
+From bare metal to the cloud, servers to VMs, containers to serverless, I have over 20 years experience scaling real world systems. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
+
+I use Docker for streamlined, self-contained development environments, and to ensure identical test and production environments. Orchestration tools like Terraform, Kubernetes, or Docker Swarm help simplify deployment and infrastructure management.
 
 
 ## Modernizing legacy applications
