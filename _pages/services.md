@@ -43,10 +43,10 @@ Additional "batteries included" frameworks like NextJS (for React) and NuxtJS (f
 
 Most web applications need more than just JavaScript, though.
 
-**Data** is the core of a web business, and it needs to be stored and used in a secure and efficient way.
-An RDBMS like Postgres or MySQL is often a good choice for the main database,
+**Data** is the molten core of a web business, and it needs to be stored and used in a secure and efficient way.
+An RDBMS like Postgres or MySQL is often a good choice for the core databases,
 though a NoSQL store like MongoDB can have its place.
-I use other data technologies for specialized purposes, like Redis, Elasticsearch, Memcache, and OpenAI.
+I use other data technologies as needed for specialized purposes, like Redis, Elasticsearch, Memcache, and OpenAI.
 
 **Business logic** is often distributed across a variety of other applications and third-party services which need to be integrated.
 I'm deeply familiar with PHP applications, including full-stack frameworks like Symfony, Zend/Laminas, and Laravel, microframeworks and homemade applications, and third-party software like Wordpress and Moodle.
