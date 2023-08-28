@@ -3,16 +3,28 @@ permalink: /about/
 title: "About"
 ---
 
-[Grimes IT](/) builds software and provides technical services to web-based businesses. 
+[Grimes IT](/) provides technical services to web-based businesses and conducts original reasearch and development.
 
-I’m Jason Grimes, the owner and Principal Engineer, and I’ve been doing this successfully for a long time.
+I’m Jason Grimes, owner and Principal Engineer, and I’ve been doing this for a long time.
 
-I started out as a network engineer in Silicon Valley in the 1990s, installing computer labs and Internet connections at public schools. Later I was a system administrator, in Unix and Windows and then the upstart Linux. I started programming in C, C++ and Java, then fell in love with the web and never looked back. I’ve programmed in PHP and JavaScript since the earliest days of both, and I’ve enjoyed the ride as both languages repeatedly reinvented themselves, along with the world around them.
+I started out as a network engineer in Silicon Valley in the 1990s, installing computer labs and Internet connections at public schools. Later I was a system administrator, in Unix, Windows, and then upstart Linux. 
+I learned to program in C, C++ and Java. 
+Soon I fell in love with the Internet and focused on web applications. 
+I’ve written productuon PHP and JavaScript since the earliest days of both languages, 
+I've seen conventional wisdom change over time,
+and I’ve enjoyed both languages repeatedly reinventing themselves, 
+and in turn the world around them.
 
-Grimes IT Services, Inc. went dormant for 20 years while I built and ran the technology for ProZ.com, the world’s largest network of professional translators and a model example of a successful, bootstrapped small web business.
-After a long and fruitful journey with ProZ, I re-formed my own company as Grimes IT, LLC, under which banner I provide technical services to occasional clients and conduct research and development for new software products.
+I helped start-up, scale, and operate [ProZ.com](https://www.proz.com/),
+(now the world’s largest network of professional translators and linguists)
+and a good model of a long-term profitable, bootstrapped small business.
+That was successful so I did it a long time,
+but eventually it was just time to go out on my own again. 
+I re-registered Grimes IT, LLC, in NC, 
+and I provide technical services to select clients and conduct my own research and development.
 
-Though I have no employees, there’s no such thing as a one-man band in business or technology. I turn to my network of friends and experts in systems, design, development, and business as each solution requires.
+Though I have no employees, there is no such thing as a one man band, 
+at least in business or technology. I turn to my network of friends and experts in systems, design, development, and business as each solution requires.
 
 I'm a fixer. A pragmatist. I like to solve problems--the harder the better. 
 
