@@ -4,7 +4,7 @@ title: "Services"
 toc: true
 ---
 
-Grimes IT provides technical services to grow web-based businesses.
+Grimes IT provides technical services to help web-based businesses grow.
 
 ## Full-stack web development
 
@@ -49,7 +49,7 @@ And I have long experience building and using APIs to integrate distributed syst
 
 <!-- {% include feature_row id="service_infrastructure" type="left" %} -->
 
-When I say "full-stack", I mean it. From bare metal to the cloud, servers to VMs, and containers to serverless, I have decades of experience scaling real world web applications. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
+When I say "full-stack", I mean it. From bare metal to the cloud, servers to VMs, and containers to serverless, I have been scaling real world web applications for decaces. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
 
 ### Development environments
 

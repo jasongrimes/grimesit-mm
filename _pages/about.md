@@ -3,10 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-[Grimes IT, LLC](/) provides technical services to web-based businesses and conducts original research and development.
+**Grimes IT, LLC** provides technical services to web-based businesses and conducts original research and development.
 (See [services](/services/).)
 
-I’m Jason Grimes, owner and Principal Engineer. I’ve been doing this for a long time.
+I’m Jason Grimes, the owner and Principal Engineer. I’ve been building web applications for a long time.
 
 I started out as a network engineer in Silicon Valley in the 1990s, installing computer labs and Internet connections at public schools. Then I was a system administrator, in Unix, Windows, and young upstart Linux.
 I learned to program in C, C++ and Java,
@@ -28,4 +28,4 @@ I'm supported by a network of friends and experts in systems, design, developmen
 
 I'm a fixer. A pragmatist. I like to solve useful problems.
 
-Do you have a problem I can solve? [Contact me](/contact/).
+Do you have a problem I can help solve? [Contact me](/contact/).
