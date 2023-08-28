@@ -30,4 +30,4 @@ I turn to my network of friends and experts in systems, design, development, and
 
 I'm a fixer. A pragmatist. I like to solve problems--the harder the better. 
 
-Is there a problem I can solve for you? [Contact me](/contact/).
+Do you have a problem I can solve? [Contact me](/contact/).
