@@ -36,11 +36,14 @@ Grimes IT provides technical services to help grow web-based businesses.
 
 <!-- {% include feature_row id="service_code" type="right" %} -->
 
-<!-- ![image-center](/assets/images/service-webdev.jpg){: .align-center} -->
-![full](/assets/images/service-webdev.jpg)
+![image-center](/assets/images/code-feature.png){: .align-center}
+
+![full](/assets/images/code-feature.png)
 {: .full}
 
 Fundamentally, Grimes IT creates value by developing web applications.
+
+### JavaScript
 
 Modern web development means **JavaScript**.
 I use client-side JavaScript frameworks like React, Vue, and Angular to provide rich user experiences.
@@ -48,14 +51,18 @@ Additional "batteries included" frameworks like NextJS (for React) and NuxtJS (f
 
 Most web applications need more than just JavaScript, though.
 
+### Databases
+
 **Data** is the molten core of a web business, and it needs to be stored and used in a secure and efficient way.
 An RDBMS like Postgres or MySQL is often a good choice for the core databases,
 though a NoSQL store like MongoDB can have its place.
 I use other data technologies as needed for specialized purposes, like Redis, Elasticsearch, Memcache, and OpenAI.
 
+### Business logic
+
 **Business logic** is often distributed across a variety of other applications and third-party services which need to be integrated.
 I'm deeply familiar with PHP applications, including full-stack frameworks like Symfony, Zend/Laminas, and Laravel, microframeworks and homemade applications, and third-party software like Wordpress and Moodle.
-And I have long experience building and using distributed APIs to integrate disparate systems, including REST and the newer and more efficient GraphQL.
+And I have long experience building and using APIs to integrate distributed systems, including REST and GraphQL.
 
 ## Web infrastructure
 
