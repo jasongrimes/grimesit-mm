@@ -18,9 +18,12 @@ Grimes IT provides technical services to grow web-based businesses.
 
 Fundamentally, Grimes IT creates value by developing web applications.
 
-### JavaScript
+Web applications can be considered in terms of their user interface, data, and business logic. 
 
-Modern web development means **JavaScript**.
+### User interface
+
+In modern web development, user interface means **JavaScript**.
+
 I use client-side JavaScript frameworks like React, Vue, and Angular to provide rich user experiences.
 Additional "batteries included" frameworks like NextJS (for React) and NuxtJS (for Vue) can be helpful to add some server-side magic, and to simplify best practice and architecture decisions. 
 
@@ -39,8 +42,8 @@ I use other data technologies as needed for specialized purposes, like Redis, El
 I'm deeply familiar with PHP applications, including full-stack frameworks like Symfony, Zend/Laminas, and Laravel, microframeworks and homemade applications, and third-party software like Wordpress and Moodle.
 And I have long experience building and using APIs to integrate distributed systems, including REST and GraphQL.
 
-
-![full](/assets/images/infrastructure-feature.png){: .full}
+<!-- 
+![full](/assets/images/infrastructure-feature.png){: .full} -->
 
 ## Web infrastructure
 
@@ -48,17 +51,26 @@ And I have long experience building and using APIs to integrate distributed syst
 
 When I say "full-stack", I mean it. From bare metal to the cloud, servers to VMs, and containers to serverless, I have decades of experience scaling real world web applications. Before that I was a network engineer in Silicon Valley. I know TCP/IP.
 
-I use Docker for streamlined, self-contained development environments, and to ensure identical test and production environments. Orchestration tools like Terraform, Kubernetes, or Docker Swarm can help simplify deployment and infrastructure management.
+### Development environments
 
-Judicious use of AWS or other cloud infrastructure can ensure scalability, but it must be carefully considered and planned to avoid cost overruns. Software must be explicitly designed to support horizontal scaling to take advantage of savings opportunities in the cloud.
+<!-- I use Docker for streamlined, self-contained development environments, and to ensure identical test and production environments. Orchestration tools like Terraform, Kubernetes, or Docker Swarm can help simplify deployment and infrastructure management. -->
+
+### Production cloud
+
+Platform, managed, and infrastructure services
+
+### Deployment and dev-ops
 
 
 
-![full](/assets/images/legacy-feature.png){: .full}
+<!-- 
+![full](/assets/images/legacy-feature.png){: .full} -->
 
 ## Modernizing legacy applications
 
 <!-- {% include feature_row id="service_legacy" type="right" %} -->
+
+### Upgrading ancient LAMP stacks
 
 Over 75% of websites use PHP, according to [surveys by W3Techs](https://w3techs.com/technologies/details/pl-php),
 and 20% of those are still running PHP 5 (which is end-of-life and no longer receiving security updates).
@@ -67,8 +79,8 @@ Hard-earned experience has shown that sites don't stay on PHP 5 because they lik
 It can be extremely challenging to upgrade an established legacy site to modern versions of PHP without disrupting the existing application--but it can be done. It takes a well-thought-out migration plan, 
 practical automated testing, mentorship and training, and some patience.
 
-Legacy applications typically need to be able to coexist and integrate with newer technologies,
-to take advantage of faster growth with newer technologies,
-while still maintaining the valuable legacy codebase.
+### Getting the legacy codebase unstuck
+
+### Enable and integrate new technologies
 
 
