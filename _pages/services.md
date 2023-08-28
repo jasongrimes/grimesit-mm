@@ -30,13 +30,15 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip. -->
 
 
-Grimes IT provides technical services to web-based businesses.
+Grimes IT provides technical services that help grow web-based businesses.
 
 ## Full-stack web development
 
 <!-- {% include feature_row id="service_code" type="right" %} -->
 
 ![image-right](/assets/images/code-feature.png){: .align-right}
+
+Fundamentally, Grimes IT creates value by developing web applications.
 
 Modern web development means **JavaScript**.
 
