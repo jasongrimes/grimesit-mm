@@ -40,7 +40,7 @@ Grimes IT provides technical services that help grow web-based businesses.
 
 Fundamentally, Grimes IT creates value by developing web applications.
 
-Modern web development means **JavaScript**.
+And modern web development means **JavaScript**.
 
 I use client-side JavaScript frameworks like React, Vue, and Angular to provide rich user experiences.
 Additional "batteries included" frameworks like NextJS (for React) and NuxtJS (for Vue) can be helpful to add some server-side magic, and to simplify best practice and architecture decisions. 
