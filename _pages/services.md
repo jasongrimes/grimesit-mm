@@ -61,8 +61,9 @@ From bare metal to cloud, servers to VMs, containers to serverless, I've been sc
 ### Development environments
 
 I run all my development environments in Docker containers,
-because it protects my computer from my constantly changing development environments.
-Containers are also useful because they can closely reproduce production environments,
+so I can install whatever mad dependency a project needs without messing up my own computer.
+Containers are also useful because they can closely reproduce entire production environments
+(databases, caches, cloud services, and all)
 and even simplify deployment, infrastructure, and operations.
 
 Visual Studio Code and Docker Desktop make it easy to do development this way.
