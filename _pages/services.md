@@ -14,7 +14,7 @@ creating something from nothing in a sense.
 That's the main value proposition.
 
 So what is the "full stack"?
-Think of a web app as being "stacked together",
+Think of a web app as being stacked together
 like bricks or a card deck, 
 from a variety of technology choices.
 A full-stack developer can work on all the technologies up and down that stack.
