@@ -29,13 +29,13 @@ For some user interfaces, a server-side rendered (SSR) HTML page is more suitabl
 Data is the molten core of a web business, and it needs to be stored and used in a secure and efficient way.
 
 An RDBMS like Postgres or MySQL is often a good choice for the core data store.
-I spent many years pushing them to their limits to scale web applications.
-ORM libraries are useful for the majority of basic database interactions,
-but raw SQL is also needed to work with the more interesting cross-sections of data.
-
-To make powerful usr of the core business 
 though a NoSQL store like MongoDB can have its place.
-I use other data technologies as needed for specialized purposes, like Redis, Elasticsearch, Memcache, and OpenAI.
+I spent many years pushing MySQL to its limits (and Postgres, to a lesser extent) to scale web applications.
+ORM libraries are useful for the majority of basic database interactions,
+Raw SQL is also needed to work with the more interesting cross-sections of data.
+
+Many other technologies can leverage or compile the core business data for a variety of specialized purposes,
+like Redis, Elasticsearch, Memcache, or OpenAI.
 
 ### Business logic and APIs
 
