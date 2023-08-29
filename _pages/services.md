@@ -9,14 +9,17 @@ Grimes IT provides technical services to grow web-based businesses.
 ## Full-stack web development
 
 Grimes IT develops web applications. 
-Literally creating something out of nothing, 
-in a certain sense. 
+Converting ideas into products through code,
+in a sense creating something out of nothing. 
 That's the main value proposition.
 
-What's the "full stack"?
+So what is the "full stack"?
 Think of a web app as being "stacked together",
-like bricks or cards, 
+like bricks or a card deck, 
 from a variety of technology choices.
+A full-stack developer can work on all the technologies up and down that stack.
+
+A web application stack generally includes user interfaces, data, business logic, and APIs.
 
 ### User interfaces
 
