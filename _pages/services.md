@@ -83,8 +83,7 @@ For everything else, **infrastructure services** like AWS tend to be the most pr
 Consider that most managed service providers are probably using AWS or something comparable themselves,
 so you'll pay them whatever you'd pay AWS anyway,
 plus the additional markup for their services.
-Some are worth it,
-some are not.
+Some will be worth it. Some will not.
 
 **Bare metal** servers can still be run in this day and age,
 especially if you enjoy that sort of thing. 
