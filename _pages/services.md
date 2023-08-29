@@ -8,7 +8,7 @@ Grimes IT provides technical services to grow web-based businesses.
 
 ## Full-stack web development
 
-It can be useful to think of web applications as being composed of user interfaces, data, and business logic. 
+Web application development is the core of how Grimes IT creates value.
 
 ### User interfaces
 
@@ -65,7 +65,7 @@ but it's only worth the trouble when an application's resource usage doesn't mat
 
 Getting finished changes from development into production should be easy and reliable.
 
-I like GitHub Actions for automating deplayment workflows.
+I like GitHub Actions for automating deployment workflows.
 
 Pre-release testing and post-release monitoring are two sides of the same coin,
 and both should happen automatically. 
