@@ -6,4 +6,6 @@ title: "Contact"
 Hello. I’m Jason Grimes, owner and Principal Engineer of Grimes IT. 
 [More about me.](/about/)
 
-[Send me an email](mailto:jason+estimate@grimesit.com) about your business needs, and we'll talk about how I can help.
+Can I help you with your business?
+I'd like to hear from you. 
+[Send me an email](mailto:jason+estimate@grimesit.com).
