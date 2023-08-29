@@ -78,9 +78,6 @@ For new or experimental applications, full-featured **managed platform** provide
 But they tend to become overly expensive beyond early stages.
 
 **Managed service** providers can make sense for specialized management of particularly complex or important parts of the stack, like databases. But beware of vendor lock-in.
-I know first hand how hard it is to manage production databases for a long time,
-so I really appreciate how much work the managed service providers can take on, 
-and why they cost so much.
 
 For everything else, **infrastructure services** like AWS tend to be the most practical and economical choice.
 Consider that most managed service providers are probably using AWS or something comparable themselves,
