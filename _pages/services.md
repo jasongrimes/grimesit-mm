@@ -63,20 +63,12 @@ but it's only worth the trouble when an application's resource usage doesn't mat
 
 ### Deployment and dev-ops
 
-Getting finished changes from development into production should be easy,
-and all repetitive quality tasks should be handled by machines, not people.
+Getting finished changes from development into production should be easy and reliable.
 
-I like GitHub Actions for automating deployment tasks when changes are pushed to a specific branch.
+I like GitHub Actions for automating deplayment workflows.
 
-Build tools: Use javascript by default
-
-In container-based environments, existing orchestration tools like Kubernets, ECS, or docker swarm can be used for deployment.
-
-Testing and monitoring. 
-
-All developers must use a consistent coding style,
-but that coding style should be entirely dictated by industry standard tools like `lint` and `prettier`.
-
+Ore-release testing and post-release monitoring are two sides of the same coin,
+and both should happen automatically. 
 
 ## Modernizing legacy applications
 
