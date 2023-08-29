@@ -120,14 +120,20 @@ practical testing and monitoring, mentorship and training, and some patience.
 ### Getting the legacy codebase unstuck
 
 A poorly documented legacy codebase is best approached by creating some good documentation.
-That allows confirming everyone's understanding of important parts of the codebase,
-and it delivers a valuable artifact early in the project.
+That lets everyone reach the same understanding about important parts of the application and the business,
+(and it delivers a valuable artifact to the client early in a project).
 
-Legacy codebases can be fragile, and it can be risky to change them.
-Changes can be made safer by setting up basic testing and monitoring,
-to detect when changes cause problems and revert them if needed.
+Since legacy codebases can be fragile and risky to change,
+basic testing and monitoring can make changes safer,
+detecting before or after change causes a problem,
+and making it easy to revert if needed.
 
-Establish the architectural direction. What architectural changes are going to be made to improve the legacy codebase? Is the aim to create new features using a new technology or framework? Or is the aim to streamline and simplify what is already there?
+With the legacy codebase documented and changeable,
+it becomes practical to decide what changes should be made to improve the legacy codebase,
+and its place in the overall architecture.
+It the objective to keep the legacy application, but gradually improve it?streamline and simplify what is already there?
+Is the aim to create new features using a new technology or framework? 
+
 
 To keep the legacy application intact while making improvements, it becomes necessary to split the architecture somehow, to allow simultaneous work on both the old and new. The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a common way to think about it.
 
