@@ -129,11 +129,7 @@ detecting problems before or after deployment,
 and making it easy to revert if needed.
 
 With the legacy codebase documented and changeable,
-it becomes practical to decide what changes should be made to improve the legacy codebase,
-and its place in the overall architecture.
-It the objective to keep the legacy application, but gradually improve it?streamline and simplify what is already there?
-Is the aim to create new features using a new technology or framework? 
-
+it becomes practical to decide what changes should be made to improve it, and where it should reside in the overall architecture.
 
 To keep the legacy application intact while making improvements, it becomes necessary to split the architecture somehow, to allow simultaneous work on both the old and new. The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a common way to think about it.
 
@@ -147,7 +143,8 @@ Having an established legacy application doesn't have to stop you from having sh
 To integrate new technologies, while keeping all the useful features of legacy services, 
 it can be useful to encapsulate the legacy system into a "black box" with a convenient API,
 to abstract away the internal complexity of the legacy codebase.
-The legacy API could be exposed using modern transports (REST, Websockets, GraphQL, etc,) as newer technologies require.
+
+The legacy API can then be exposed using modern transports (REST, Websockets, GraphQL, etc,), as newer technologies require.
 
 ## Contact
 
