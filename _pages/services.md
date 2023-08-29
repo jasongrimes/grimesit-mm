@@ -10,7 +10,7 @@ Grimes IT provides technical services to grow web-based businesses.
 
 Grimes IT develops web applications. 
 Converting ideas into products through code,
-creating something from nothing, in a sense. 
+creating something from nothing in a sense. 
 That's the main value proposition.
 
 So what is the "full stack"?
