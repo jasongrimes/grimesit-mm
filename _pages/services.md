@@ -121,7 +121,7 @@ practical testing and monitoring, mentorship and training, and some patience.
 
 A poorly documented legacy codebase is best approached by creating some good documentation.
 That lets everyone reach the same understanding about important parts of the application and the business,
-(and it delivers a valuable artifact to the client early in a project).
+and it delivers a valuable artifact to the client early in a project.
 
 Since legacy codebases can be fragile and risky to change,
 basic testing and monitoring can make changes safer,
