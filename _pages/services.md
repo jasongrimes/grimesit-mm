@@ -103,12 +103,12 @@ and I've used a variety of build environments and CI/CD toolchains.
 
 ### Upgrading ancient LAMP stacks
 
-According to a [2023 survey by W3Techs](https://w3techs.com/technologies/details/pl-php),
-75% of websites use PHP,
-and 20% of those are still running PHP 5.
-PHP 5 has long been officially dead ("end of life"), 
-*and* is well known to be at least *twice as slow* as newer versions.
+According to [2023 surveys by W3Techs](https://w3techs.com/technologies/details/pl-php),
+around 75% of websites use PHP,
+and around 20% of those are still running PHP 5.
 
+PHP 5 has long been officially dead ("end of life"), 
+and is well known to be at least *twice as slow* as newer versions.
 Sites don't stay on PHP 5 because they like it. 
 Upgrading a core technology like PHP, MySQL, or Linux, 
 which has been running a real business for a long time,
