@@ -144,7 +144,7 @@ To integrate new technologies, while keeping all the useful features of legacy s
 it can be useful to encapsulate the legacy system into a "black box" with a convenient API,
 to abstract away the internal complexity of the legacy codebase.
 
-The legacy API can then be exposed using a variety of transports and architectures (HTTP, Websockets, REST, GraphQL, etc,), as newer technologies require.
+The legacy API can then be exposed using a variety of transports and architectures (HTTP, Websockets, REST, GraphQL, etc.), as newer technologies require.
 
 ## Contact
 
