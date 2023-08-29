@@ -20,8 +20,8 @@ I helped start-up, scale, and operate [ProZ.com](https://www.proz.com/),
 and a good model of a long-term profitable, bootstrapped small business.
 It was successful, so I did that for a long time.
 Eventually I went out on my own again,
-to provide technical services to select clients,
-and conduct original research and development.
+providing technical services to select clients,
+and conducting original research and development.
 
 Though I have no employees, there is no such thing as a one man band--at least not in business or technology. 
 I'm supported by a network of friends and experts in systems, design, development, and business, as needed.
