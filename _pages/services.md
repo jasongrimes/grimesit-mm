@@ -28,8 +28,12 @@ In modern web development, user interface often means **JavaScript**.
 I use client-side JavaScript frameworks like React, Vue, and Angular to provide rich user experiences.
 Additional "batteries included" frameworks like NextJS (for React) and NuxtJS (for Vue) can be helpful to add some server-side magic, and to simplify best practice and architecture decisions. 
 
-In some cases, old school server-side rendered (SSR) HTML pages are more suitable. 
-I've done this with many PHP applications, including full-stack frameworks like Symfony, Zend/Laminas, and Laravel, microframeworks, home-grown frameworks, and third-party software like Wordpress and Moodle.
+Some cases still call for old school SSR (server-side rendered) PHP applications.
+I've built a generation of PHP apps with a variety of architectures, including full-stack frameworks like Symfony, Zend/Laminas, and Laravel; microframeworks like Slim and Silex; home-grown frameworks; and third-party ecosystems like Wordpress and Moodle.
+
+Regardless of the underlying architecture, good user interfaces need good designers,
+who are often outside specialists unfamiliar with the application's underlying technology.
+It should be as convenient as possible for outside designers to contribute to the user interface.
 
 ### Databases
 
