@@ -12,7 +12,6 @@ I was a system administrator for both Unix and Windows, and an early adopter of 
 I learned to program in C, C++ and Java,
 then fell in love with the Internet and began to specialize in web applications.
 I’ve written production PHP and JavaScript code since the earliest days of both,
-seen their best practices grow and change over time,
 and enjoyed their evolution into mature and powerful languages that run the modern web.
 
 I helped start-up, scale, and operate [ProZ.com](https://www.proz.com/),
