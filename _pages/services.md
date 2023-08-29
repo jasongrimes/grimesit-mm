@@ -67,10 +67,15 @@ Getting finished changes from development into production should be easy and rel
 
 I like GitHub Actions for automating deplayment workflows.
 
-Ore-release testing and post-release monitoring are two sides of the same coin,
+Pre-release testing and post-release monitoring are two sides of the same coin,
 and both should happen automatically. 
 
 ## Modernizing legacy applications
+
+*Rule 1: respect the legacy.*
+
+It does more than you think,
+and it has delivered real business value for a long time--otherwise it wouldnt be here. 
 
 ### Upgrading ancient LAMP stacks
 
@@ -83,13 +88,17 @@ practical testing and monitoring, mentorship and training, and some patience.
 
 ### Getting the legacy codebase unstuck
 
-Documentation.
-Testing and monitoring.
-Split architecture: the Strangler Fig pattern.
-Mentorship and training
+- I start by documenting the existing system at a high level,
+to validate my understanong and create a useful artifact right away.  .
+- Gain confidence to make changes by setting up basic end-to-end testing and monitoring.
+- Decide on an architectural direction. Re-invigorate, or gradually replace?
+- Split the architecture, to allow simultaneous work on both the old and new. c.f. the "Strangler Fig" design pattern.
+- Ongoing code review and mentorship
 
 ### Integrating new technologies
 
-Encapsulation and API
+- Encapsulate the legacy system so it can be treated as a black box by new development projects.
+- Create a clean and reliable API to interface with new technologies. 
+
 
 
