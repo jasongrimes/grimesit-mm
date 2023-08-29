@@ -92,15 +92,12 @@ only worth the trouble when an application's resource usage doesn't match the ho
 
 ### Deployment and dev-ops
 
-Getting finished changes from development into production should be easy and reliable.
-
-I like GitHub Actions for automating deployment workflows.
-
+Deploying a change from development to production should be easy and safe.
 Pre-release testing and post-release monitoring are two sides of the same coin,
-two angles on the same corner,
 and both should happen automatically.
-I've use a variety of tools to accomplish this,
-and I'm following the rapidly changing field.
+
+I like GitHub Actions for automating deployment workflows
+and I've used a variety of build environments and CI/CD toolchains.
 
 ## Modernizing legacy applications
 
