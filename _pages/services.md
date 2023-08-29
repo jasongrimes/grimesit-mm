@@ -72,7 +72,10 @@ For new projects and quick changes, GitHub Codespaces can be an easy way to get 
 
 ### Production infrastructure
 
-Production infrastructure for a web app is sold in a range from roughly "most expensive, least effort" to "least expense, most effort". Every business has to find its own sweet spot for its own needs and budget.
+Production infrastructure for web apps is sold in a range of service levels, 
+where the general idea is the more it costs, the less work you have to do yourself,
+and vice versa.
+Every business has to find its own sweet spot for its own needs and budget.
 
 For new or experimental applications, full-featured **managed platform** providers like Vercel, Heroku, or Digital Ocean can be useful.
 But they tend to become overly expensive beyond early stages.
