@@ -72,11 +72,6 @@ and both should happen automatically.
 
 ## Modernizing legacy applications
 
-*Rule 1: respect the legacy.*
-
-It does more than you think,
-and it has delivered real business value for a long time--otherwise it wouldnt be here. 
-
 ### Upgrading ancient LAMP stacks
 
 Over 75% of websites use PHP, according to [surveys by W3Techs](https://w3techs.com/technologies/details/pl-php),
