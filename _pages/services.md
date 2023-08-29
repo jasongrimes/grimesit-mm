@@ -60,8 +60,8 @@ From bare metal to cloud, servers to VMs, containers to serverless, I've been sc
 
 ### Development environments
 
-I run all my development environments in Docker containers,
-so I can install whatever mad dependency a project needs without messing up my own computer.
+I run all my development environments in Docker containers now,
+so I can install whatever mad dependency a project might need without messing up my own computer.
 Containers are also useful because they can closely reproduce entire production environments
 (databases, caches, cloud services, and all)
 and even simplify deployment, infrastructure, and operations.
