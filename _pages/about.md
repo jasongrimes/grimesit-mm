@@ -28,4 +28,4 @@ I'm supported by a network of friends and experts in systems, design, developmen
 
 I'm a fixer. A pragmatist. I like to solve useful problems.
 
-Do you have a problem I can help solve? [Contact me](/contact/).
+Can I solve a problem for you? [Contact me](/contact/).
