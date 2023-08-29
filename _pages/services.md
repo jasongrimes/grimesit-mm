@@ -125,7 +125,7 @@ and it delivers a valuable artifact to the client early in a project.
 
 Since legacy codebases can be fragile and risky to change,
 basic testing and monitoring can make changes safer,
-detecting before or after change causes a problem,
+detecting problems before or after deployment,
 and making it easy to revert if needed.
 
 With the legacy codebase documented and changeable,
