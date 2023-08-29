@@ -45,10 +45,14 @@ Some I've used include Redis, Elasticsearch, Memcache, OpenAI, etc.
 ### Business logic and APIs
 
 Business logic is often distributed across a variety of applications and third-party services,
-which all need to be integrated through various APIs.
+which all need to be integrated.
 
-REST is one of the most common API architectures, and I've built and consumed many REST APIs over the years.
-More recently, I like GraphQL for solving some of the shortcomings of resource-based APIs.
+Often fundamental business logic is embedded in an original web application,
+and it needs to be extracted in order to be more easily shared, tested, and refined.
+This means APIs.
+
+REST has become one of the most common API architectures, and I've built and consumed many REST APIs over the years.
+I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
 ## Web infrastructure
 
@@ -56,14 +60,17 @@ From bare metal to cloud, servers to VMs, containers to serverless, I've been sc
 
 ### Development environments
 
-I run all my development environments in Docker containers.
-Using containers protects my own computer from my constantly changing development environments,
-and it can also be made to closely reproduce production environments,
-and even simplify deployment and infrastructure operations.
+I run all my development environments in Docker containers,
+because it protects my own computer from my constantly changing development environments.
+As an additional benefit,
+containers can also be made to closely reproduce production environments,
+*and* simplify deployment, infrastructure, and operations.
 
-Visual Studio Code and Docker Desktop make it easy to do development this way.
+Even better,
+Visual Studio Code and Docker Desktop make it easy to do development this way,
+for free.
 
-For new projects, GitHub Codespaces can be an easy way to get up and running with a simple dev environment, and to make quick changes in any codebase without the developer having to hassle with creating a local dev enviroment first.
+For new projects and quick changes, GitHub Codespaces can be an easy way to get a simple dev environment up and running, and to make quick changes on the fly, without having to hassle with creating a local dev environment first.
 
 ### Production infrastructure
 
@@ -96,17 +103,27 @@ Getting finished changes from development into production should be easy and rel
 I like GitHub Actions for automating deployment workflows.
 
 Pre-release testing and post-release monitoring are two sides of the same coin,
-and both should happen automatically. 
+two angles on the same corner,
+and both should happen automatically.
+I've use a variety of tools to accomplish this,
+and I'm following the rapidly changing field.
 
 ## Modernizing legacy applications
 
 ### Upgrading ancient LAMP stacks
 
-Over 75% of websites use PHP, according to [surveys by W3Techs](https://w3techs.com/technologies/details/pl-php),
-and 20% of those are still running PHP 5 (which is end-of-life and no longer receiving security updates).
+According to a [2023 survey by W3Techs](https://w3techs.com/technologies/details/pl-php),
+75% of websites use PHP,
+and 20% of those are still running PHP 5.
+PHP 5 has long been officially dead ("end of life"), 
+*and* is well known to be at least *twice as slow* as newer versions.
 
-Hard-earned experience has taught that sites don't stay on PHP 5 because they like it. 
-It can be extremely challenging to upgrade an established legacy site to modern versions of PHP without disrupting the existing application--but it can be done. It takes a well-thought-out migration plan, 
+Sites don't stay on PHP 5 because they like it. 
+Upgrading a core technology like PHP, MySQL, or Linux, 
+which has been running a real business for a long time,
+can be extremely challenging without causing major disruptions. 
+
+But it can be done. It takes a well-thought-out migration plan, 
 practical testing and monitoring, mentorship and training, and some patience.
 
 ### Getting the legacy codebase unstuck
