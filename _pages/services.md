@@ -32,14 +32,15 @@ I've done this with many PHP applications, including full-stack frameworks like 
 
 Data is the molten core of a web business, and it needs to be stored and used in a secure and efficient way.
 
-An RDBMS like Postgres or MySQL is often a good choice for the core data store.
-though a NoSQL store like MongoDB can have its place.
-I spent many years pushing MySQL to its limits (and Postgres, to a lesser extent) to scale web applications.
-ORM libraries are useful for the majority of basic database interactions,
-Raw SQL is also needed to work with the more interesting cross-sections of data.
+An RDBMS like Postgres or MySQL is often a good choice for the core data store,
+though NoSQL options like MongoDB can have their place.
+I spent many years pushing MySQL and Postgres to their early limits to scale web apps.
+I like common ORM libraries for basic database interactions,
+and I'm experienced using complex (yet performant) SQL to work with the more interesting cross-sections of data.
 
-Many other technologies can leverage or compile the core business data for a variety of specialized purposes,
-like Redis, Elasticsearch, Memcache, or OpenAI.
+Atop the core business data, many other technologies can be stacked in various combinations,
+to leverage or compile the core business data for a variety of specialized purposes.
+Some I've used include Redis, Elasticsearch, Memcache, OpenAI, etc.
 
 ### Business logic and APIs
 
@@ -51,20 +52,22 @@ More recently, I like GraphQL for solving some of the shortcomings of resource-b
 
 ## Web infrastructure
 
-From bare metal to the cloud, servers to VMs, and containers to serverless, I've been scaling real-world web applications for decades. Before that, I was a network engineer in Silicon Valley. I know TCP/IP.
+From bare metal to cloud, servers to VMs, containers to serverless, I've been scaling real-world web applications for decades. Before that, I was a network engineer in Silicon Valley. I know the stack from TCP/IP on up.
 
 ### Development environments
 
 I run all my development environments in Docker containers.
-That way I can closely reproduce production environments,
-isolate my own computer from volatile development changes,
-and take advantage of portable containerized environments.
+Using containers protects my own computer from my constantly changing development environments,
+and it can also be made to closely reproduce production environments,
+and even simplify deployment and infrastructure operations.
 
 Visual Studio Code and Docker Desktop make it easy to do development this way.
 
+For new projects, GitHub Codespaces can be an easy way to get up and running with a simple dev environment, and to make quick changes in any codebase without the developer having to hassle with creating a local dev enviroment first.
+
 ### Production infrastructure
 
-The production infrastructure needeed for running a web application can be purchased on a scale roughly from "most expensive, least effort" to "least expense, most effort". 
+The production infrastructure needeed for running a web application is acquired on a scale from roughly "most expensive, least effort" to "least expense, most effort". Every business has to find its own sweet spot for its own needs and budget.
 
 For new or experimental applications, full-featured **managed platform** providers like Vercel, Heroku, or Digital Ocean can be useful.
 But they tend to become overly expensive beyond early stages.
