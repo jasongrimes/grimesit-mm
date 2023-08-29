@@ -39,8 +39,8 @@ I like common ORM libraries for basic database interactions,
 and I'm experienced using complex (yet performant) SQL to work with the more interesting cross-sections of data.
 
 Atop the core business data, many other technologies can be stacked in various combinations,
-to leverage or compile the core business data for a variety of specialized purposes.
-Some I've used include Redis, Elasticsearch, Memcache, OpenAI, etc.
+to leverage or compile data for a variety of specialized purposes.
+Some common ones I've used include Redis, Elasticsearch, Memcache, OpenAI, etc.
 
 ### Business logic and APIs
 
