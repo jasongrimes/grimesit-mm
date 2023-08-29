@@ -13,7 +13,10 @@ Literally creating something out of nothing,
 in a certain sense. 
 That's the main value proposition.
 
-A web app is stacked together from a variety of technology choices.
+What's the "full stack"?
+Think of a web app as being "stacked together",
+like bricks or cards, 
+from a variety of technology choices.
 
 ### User interfaces
 
