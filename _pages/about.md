@@ -15,11 +15,11 @@ I’ve written production PHP and JavaScript code since the earliest days of bot
 and enjoyed their evolution into mature and powerful languages that run the modern web.
 
 I helped start-up, scale, and operate [ProZ.com](https://www.proz.com/),
-(now the world’s largest network of professional translators and linguists)
+into the world’s largest network of professional translators and linguists,
 and a good model of a long-term profitable, bootstrapped small business.
 It was successful, so I did that for a long time.
-Eventually I went out on my own again,
-providing technical services to select clients,
+Eventually I started my own business again,
+providing technical services to select clients
 and conducting original research and development.
 
 Though I have no employees, there is no such thing as a one man band--at least not in business or technology. 
