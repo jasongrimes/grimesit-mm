@@ -148,4 +148,4 @@ The legacy API can then be exposed using modern transports (REST, Websockets, Gr
 
 ## Contact
 
-Can I help your business with something like this? [Contact me.](/contact/)
+Does your business need help with something like this? [Contact me.](/contact/)
