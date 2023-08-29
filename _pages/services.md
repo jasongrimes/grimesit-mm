@@ -61,14 +61,11 @@ From bare metal to cloud, servers to VMs, containers to serverless, I've been sc
 ### Development environments
 
 I run all my development environments in Docker containers,
-because it protects my own computer from my constantly changing development environments.
-As an additional benefit,
-containers can also be made to closely reproduce production environments,
-*and* simplify deployment, infrastructure, and operations.
+because it protects my computer from my constantly changing development environments.
+Containers are also useful because they can closely reproduce production environments,
+and even simplify deployment, infrastructure, and operations.
 
-Even better,
-Visual Studio Code and Docker Desktop make it easy to do development this way,
-for free.
+Visual Studio Code and Docker Desktop make it easy to do development this way.
 
 For new projects and quick changes, GitHub Codespaces can be an easy way to get a simple dev environment up and running, and to make quick changes on the fly, without having to hassle with creating a local dev environment first.
 
@@ -128,17 +125,30 @@ practical testing and monitoring, mentorship and training, and some patience.
 
 ### Getting the legacy codebase unstuck
 
-- I start by documenting the existing system at a high level,
-to validate my understanong and create a useful artifact right away.  .
-- Gain confidence to make changes by setting up basic end-to-end testing and monitoring.
-- Decide on an architectural direction. Re-invigorate, or gradually replace?
-- Split the architecture, to allow simultaneous work on both the old and new. c.f. the "Strangler Fig" design pattern.
-- Ongoing code review and mentorship
+A poorly documented legacy codebase is best approached by creating some good documentation.
+That allows confirming everyone's understanding of important parts of the codebase,
+and it delivers a valuable artifact early in the project.
+
+Legacy codebases can be fragile, and it can be risky to change them.
+Changes can be made safer by setting up basic testing and monitoring,
+to detect when changes cause problems and revert them if needed.
+
+Establish the architectural direction. What architectural changes are going to be made to improve the legacy codebase? Is the aim to create new features using a new technology or framework? Or is the aim to streamline and simplify what is already there?
+
+To keep the legacy application intact while making improvements, it becomes necessary to split the architecture somehow, to allow simultaneous work on both the old and new. The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a common way to think about it.
+
+Code review and training keeps the legacy codebase gradually improving, along with the team that maintains it.
+Grimes IT can provide code review as a service, or dedicated training sessions.
 
 ### Integrating new technologies
 
-- Encapsulate the legacy system so it can be treated as a black box by new development projects.
-- Create a clean and reliable API to interface with new technologies. 
+Having an established legacy application doesn't have to stop you from having shiny new applications, too.
 
+To integrate new technologies, while keeping all the useful features of legacy services, 
+it can be useful to encapsulate the legacy system into a "black box" with a convenient API,
+to abstract away the internal complexity of the legacy codebase.
+The legacy API could be exposed using modern transports (REST, Websockets, GraphQL, etc,) as newer technologies require.
 
+## Contact
 
+Can I help your business with something like this? [Contact me.](/contact/)
