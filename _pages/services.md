@@ -8,7 +8,7 @@ Grimes IT provides technical services to grow web-based businesses.
 
 ## Full-stack web development
 
-Web application development is the core of how Grimes IT creates value.
+Web application development is at the core of how Grimes IT creates value.
 
 ### User interfaces
 
@@ -22,7 +22,13 @@ For some user interfaces, a server-side rendered (SSR) HTML page is more suitabl
 ### Databases
 
 Data is the molten core of a web business, and it needs to be stored and used in a secure and efficient way.
-An RDBMS like Postgres or MySQL is often a good choice for the core databases,
+
+An RDBMS like Postgres or MySQL is often a good choice for the core data store.
+I spent many years pushing them to their limits to scale web applications.
+ORM libraries are useful for the majority of basic database interactions,
+but raw SQL is also needed to work with the more interesting cross-sections of data.
+
+To make powerful usr of the core business 
 though a NoSQL store like MongoDB can have its place.
 I use other data technologies as needed for specialized purposes, like Redis, Elasticsearch, Memcache, and OpenAI.
 
@@ -55,11 +61,21 @@ For new or experimental applications, full-featured **managed platform** provide
 But they tend to become overly expensive beyond early stages.
 
 **Managed service** providers can make sense for specialized management of particularly complex or important parts of the stack, like databases. But beware of vendor lock-in.
+I know first hand how hard it is to manage production databases for a long time,
+so I really appreciate how much work the managed service providers can take on, 
+and why they cost so much.
 
 For everything else, **infrastructure services** like AWS tend to be the most practical and economical choice.
+Consider that most managed service providers are probably using AWS or something comparable themselves,
+so you'll pay them whatever you'd pay AWS anyway,
+plus the additional markup for their services.
+Some are worth it,
+some are not.
 
 **Bare metal** servers can still be run in this day and age,
-but it's only worth the trouble when an application's resource usage doesn't match the horizontally scalable models of the cloud providers.
+especially if you enjoy that sort of thing. 
+But personally, I'm over it and I think bare metal is
+only worth the trouble when an application's *resource usage doesn't match the horizontally scalable models* of the cloud providers.
 
 ### Deployment and dev-ops
 
