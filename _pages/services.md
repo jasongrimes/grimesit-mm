@@ -137,7 +137,7 @@ it becomes practical to decide what changes should be made to improve it, and wh
 To keep the legacy application intact while making improvements, it becomes necessary to split the architecture somehow, to allow simultaneous work on both the old and new. The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a common way to think about it.
 
 Code review and training keeps the legacy codebase gradually improving, along with the team that maintains it.
-Grimes IT can provide code review as a service, or dedicated training sessions.
+Grimes IT can provide code review as a service or dedicated training sessions.
 
 ### Integrating new technologies
 
