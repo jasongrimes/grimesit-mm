@@ -56,7 +56,7 @@ I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
 ## Web infrastructure
 
-From bare metal to cloud, servers to VMs, containers to serverless, I've been scaling real-world web applications for decades. Before that, I was a network engineer in Silicon Valley. I know the stack from TCP/IP on up.
+From bare metal to cloud, servers to VMs, containers to serverless, I've been scaling real-world web applications for decades. Before that, I was a network engineer in Silicon Valley. I know the web all the way down to TCP/IP.
 
 ### Development environments
 
