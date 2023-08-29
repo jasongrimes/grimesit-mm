@@ -8,7 +8,12 @@ Grimes IT provides technical services to grow web-based businesses.
 
 ## Full-stack web development
 
-Web application development is at the core of how Grimes IT creates value.
+Grimes IT creates web applications. 
+Literally creating something out of nothing, 
+in a certain sense. 
+That's the main value proposition.
+
+A web app is stacked together from a variety of technology choices.
 
 ### User interfaces
 
