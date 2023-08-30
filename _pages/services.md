@@ -122,8 +122,10 @@ and I've used a variety of build environments and CI/CD toolchains.
 
 ![full](/assets/images/feature-legacy.jpg){: .full}
 
-Successful applications last, and technical debt accumulates. 
-We modernize LAMP stacks and respect the legacy.
+Respect the legacy. 
+Software only survives long enough to grow old and messy because it's been providing genuine value to the business for a long time.
+
+Successful applications last, and technical debt accumulates.
 
 ### Upgrading ancient LAMP stacks
 
