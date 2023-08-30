@@ -44,7 +44,8 @@ feature_row:
 
 {% include feature_row %}
 
-{% set author = site.author %}
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
   {% if author.avatar %}
     <div class="author__avatar">
       <a href="{{ author.home | default: '/' | absolute_url }}">
