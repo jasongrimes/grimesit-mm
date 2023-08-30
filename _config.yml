@@ -61,9 +61,12 @@ author:
   name   : "Jason Grimes"
   avatar : "/assets/images/jg-headshot-iceland.png"
   home: "/about/"
-  bio    : "Owner & Principal Engineer, Grimes IT"
+  bio    : "Owner and Principal Engineer"
   location: "Raleigh, NC"
   links:
+    - label: "Grimes IT"
+      icon: "fab fa-fw fa-github"
+      url: "/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jasongrimes"
