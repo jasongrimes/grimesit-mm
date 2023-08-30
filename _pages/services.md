@@ -61,9 +61,11 @@ This means APIs.
 REST has become one of the most common API architectures, and I've built and consumed many REST APIs over the years.
 I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
+
+
 ## Web infrastructure
 
-From bare metal to cloud, servers to VMs, containers to serverless, I've been scaling real-world web applications for decades. Before that, I was a network engineer in Silicon Valley. I know the web all the way down to TCP/IP.
+From bare metal to cloud, servers to VMs, and containers to serverless, I've been scaling real-world systems for decades. Before that, I was a network engineer in Silicon Valley. I know the web down to TCP/IP.
 
 ### Development environments
 
@@ -108,6 +110,8 @@ and both should happen automatically.
 
 I like GitHub Actions for automating deployment workflows
 and I've used a variety of build environments and CI/CD toolchains.
+
+
 
 ## Modernizing legacy applications
 
