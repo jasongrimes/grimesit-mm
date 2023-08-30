@@ -14,9 +14,8 @@ Grimes IT specializes in web application development---building
 software applications that run on the web.
 
 So what is the "full stack"?
-Think of a web app as being stacked together,
-like bricks or a card deck, 
-from a variety of technology choices.
+Consider a web app as an assembly of various technology choices,
+stacked together like bricks or a card deck.
 A full-stack developer can work on all the technologies in the stack.
 
 A web application stack generally includes at least user interfaces, data, business logic, and APIs.
