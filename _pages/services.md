@@ -145,9 +145,6 @@ basic testing and monitoring can make changes safer,
 detecting problems before or after deployment,
 and making it easy to revert if needed.
 
-With the legacy codebase documented and changeable,
-it becomes practical to decide what changes should be made to improve it, and where it should reside in the overall architecture.
-
 To keep the legacy application intact while making improvements, it becomes necessary to split the architecture somehow, to allow simultaneous work on both the old and new. The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a common way to think about it.
 
 Code review and training keeps the legacy codebase gradually improving, along with the team that maintains it.
