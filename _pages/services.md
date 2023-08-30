@@ -145,7 +145,11 @@ basic testing and monitoring can make changes safer,
 detecting problems before or after deployment,
 and making it easy to revert if needed.
 
-To keep the legacy application intact while making improvements, it becomes necessary to split the architecture somehow, to allow simultaneous work on both the old and new. The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a common way to think about it.
+Any new architecture should be created in parallel, 
+while the legacy application keeps running for as long as it's needed. 
+This requires the architecture to be split somehow, 
+to allow simultaneous work on both the old and new. 
+The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a useful way to think about this challenge.
 
 Code review and training keeps the legacy codebase gradually improving, along with the team that maintains it.
 Grimes IT can provide code review as a service or dedicated training sessions.
