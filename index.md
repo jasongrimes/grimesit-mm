@@ -44,8 +44,8 @@ feature_row:
 
 {% include feature_row %}
 
-<!--
-<h2>About Grimes IT</h2>
+
+# About Grimes IT
 
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
@@ -56,4 +56,6 @@ feature_row:
       </a>
     </div>
   {% endif %}
-  -->
+  
+Hello. I’m Jason Grimes, owner and Principal Engineer of Grimes IT. 
+[Learn more](/about/), or [contact me](/contact/).
