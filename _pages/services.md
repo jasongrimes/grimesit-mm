@@ -156,10 +156,10 @@ Grimes IT can provide code review as a service or dedicated training sessions.
 
 ### Integrating new technologies
 
-Having an established legacy application doesn't have to stop you from having shiny new applications, too.
+Having an established legacy application doesn't mean you can't have shiny new applications, too.
 
 To integrate new technologies, while keeping all the useful features of legacy services, 
-it can be useful to encapsulate the legacy system into a "black box" with a convenient API,
+it helps to encapsulate the legacy system into a "black box" with a convenient APIs,
 to abstract away the internal complexity of the legacy codebase.
 
 The legacy API can then be exposed using a variety of transports and architectures (HTTP, Websockets, REST, GraphQL, etc.), as newer technologies require.
