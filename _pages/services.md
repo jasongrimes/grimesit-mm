@@ -122,6 +122,9 @@ and I've used a variety of build environments and CI/CD toolchains.
 
 ![full](/assets/images/feature-legacy.jpg){: .full}
 
+Successful applications last, and technical debt accumulates. 
+I modernize LAMP stacks and respect the legacy.
+
 ### Upgrading ancient LAMP stacks
 
 According to [2023 surveys by W3Techs](https://w3techs.com/technologies/details/pl-php),
