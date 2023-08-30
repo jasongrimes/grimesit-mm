@@ -130,9 +130,8 @@ and around 20% of those are still running PHP 5.
 PHP 5 has long been officially dead ("end of life"), 
 and is well known to be at least *twice as slow* as newer versions.
 Sites don't stay on PHP 5 because they like it. 
-Upgrading a core technology like PHP, MySQL, or Linux, 
-which has been running a real business for a long time,
-can be extremely challenging without causing major disruptions. 
+Upgrading a core technology like PHP, MySQL, or Linux that has been powering a real business for a long time
+can be challenging and disruptive.
 
 But it can be done. It takes a well-thought-out migration plan, 
 practical testing and monitoring, mentorship and training, and some patience.
