@@ -91,7 +91,7 @@ Every business has to find its own sweet spot for its own needs and budget.
 For new or experimental applications, full-featured **managed platform** providers like Vercel, Heroku, or Digital Ocean can be useful.
 But they tend to become overly expensive beyond early stages.
 
-**Managed service** providers can valuable for specializing in particularly complex or important parts of the stack, 
+**Managed service** providers can be valuable for specializing in particularly complex or important parts of the stack, 
 like databases and network services. 
 Just beware of vendor lock-in.
 
