@@ -12,7 +12,7 @@ $primary-color: #00b386 !default;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.btn .btn--inverse {
+.btn.btn--inverse {
     background-color: transparent;
     color: #ccc;
 }
