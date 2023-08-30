@@ -39,7 +39,7 @@ It should be as convenient as possible for outside designers to contribute to th
 
 ### Databases
 
-Data is the molten core of a web business, and it needs to be stored and used in a secure and efficient way.
+Data is the core of a web business, and it needs to be stored and used in a secure and efficient way.
 
 An RDBMS like Postgres or MySQL is often a good choice for the core data store,
 though NoSQL options like MongoDB can have their place.
