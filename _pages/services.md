@@ -165,7 +165,7 @@ Grimes IT can provide code review as a service or dedicated training sessions.
 Having an established legacy application doesn't mean you can't have shiny new applications, too.
 
 To integrate new technologies, while keeping all the useful features of legacy services, 
-it helps to encapsulate the legacy system into a "black box" with a convenient APIs,
+it helps to encapsulate the legacy system into a "black box" with convenient APIs,
 to abstract away the internal complexity of the legacy codebase from other projects.
 
 The legacy API can then be exposed using a variety of transports and architectures (HTTP, Websockets, REST, GraphQL, etc.), as newer technologies require.
