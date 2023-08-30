@@ -10,10 +10,8 @@ Grimes IT provides technical services to help web-based businesses grow.
 
 ![full](/assets/images/feature-development-ltr.jpg){: .full}
 
-Grimes IT develops web applications. 
-Converting ideas into products through code,
-in a sense creating something from nothing. 
-That's the main value proposition.
+Grimes IT specializes in web application development--building 
+software applications that run on the web.
 
 So what is the "full stack"?
 Think of a web app as being stacked together
