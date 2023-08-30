@@ -62,7 +62,7 @@ I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
 
 
-## Web infrastructure
+## Infrastructure
 
 ![full](/assets/images/feature-infrastructure2.jpg){: .full}
 
