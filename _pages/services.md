@@ -123,7 +123,7 @@ and I've used a variety of build environments and CI/CD toolchains.
 ![full](/assets/images/feature-legacy.jpg){: .full}
 
 Respect the legacy. 
-Software only survives long enough to grow old and messy because it's been providing genuine value to the business for a long time.
+Software only survives to grow old and messy because it's been providing genuine value to the business for a long time.
 
 Successful applications last, and technical debt accumulates.
 
