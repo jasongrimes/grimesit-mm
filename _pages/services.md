@@ -4,24 +4,22 @@ title: "Services"
 toc: true
 ---
 
-Grimes IT provides technical services to grow web-based businesses.
+Grimes IT provides technical services to help web-based businesses grow.
 
 ## Full-stack web development
 
 ![full](/assets/images/feature-development-ltr.jpg){: .full}
 
-Grimes IT develops web applications. 
-Converting ideas into products through code,
-in a sense creating something from nothing. 
-That's the main value proposition.
+Grimes IT specializes in web application development---building 
+software applications that run on the web.
 
 So what is the "full stack"?
-Think of a web app as being stacked together
+Think of a web app as being stacked together,
 like bricks or a card deck, 
 from a variety of technology choices.
-A full-stack developer can work on all the technologies up and down the stack.
+A full-stack developer can work on all the technologies in the stack.
 
-A web application stack generally includes user interfaces, data, business logic, and APIs.
+A web application stack generally includes at least user interfaces, data, business logic, and APIs.
 
 ### User interfaces
 
@@ -33,15 +31,15 @@ Additional "batteries included" frameworks like NextJS (for React) and NuxtJS (f
 Some cases still call for old school SSR (server-side rendered) PHP applications.
 I've built a generation of PHP apps with a variety of architectures, including full-stack frameworks like Symfony, Zend/Laminas, and Laravel; microframeworks like Slim and Silex; home-grown frameworks; and third-party ecosystems like Wordpress and Moodle.
 
-Regardless of the underlying architecture, good user interfaces need good designers,
-who are often outside specialists unfamiliar with the application's underlying technology.
-It should be as convenient as possible for outside designers to contribute to the user interface.
+A good user interface needs a good designer,
+who is often an outside specialist unfamiliar with the application's underlying technology.
+The architecture should make it as convenient as possible for outside designers to contribute to the user interface.
 
 ### Databases
 
-Data is the molten core of a web business, and it needs to be stored and used in a secure and efficient way.
+Data is the core of a web business, and it needs to be stored and used in a secure and efficient way.
 
-An RDBMS like Postgres or MySQL is often a good choice for the core data store,
+A *relational* database like Postgres or MySQL is often a good choice for the core data store,
 though NoSQL options like MongoDB can have their place.
 I spent many years pushing MySQL and Postgres to their early limits to scale web apps.
 I like common ORM libraries for basic database interactions,
@@ -69,24 +67,25 @@ I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
 ![full](/assets/images/feature-infrastructure2.jpg){: .full}
 
-From bare metal to cloud, servers to VMs, and containers to serverless, I've been scaling real-world systems for decades. Before that, I was a network engineer in Silicon Valley. I know the web down to TCP/IP.
+From bare metal to cloud, server to VM, container to serverless, I've scaled real-world systems for decades. 
+Before that, I was a network engineer in Silicon Valley. I know the web down to TCP/IP.
 
 ### Development environments
 
 I run all my development environments in Docker containers now,
-so I can install whatever mad dependency a project might need without messing up my own computer.
+so I can install whatever mad dependency a project might require without messing up my own computer.
 Containers are also useful because they can closely reproduce entire production environments
 (databases, caches, cloud services, and all)
 and even simplify deployment, infrastructure, and operations.
 
-Visual Studio Code and Docker Desktop make it easy to do development this way.
+Visual Studio Code and Docker Desktop have made it easy to do development this way.
 
 For new projects and quick changes, GitHub Codespaces can be an easy way to get a simple dev environment up and running, and to make quick changes on the fly, without having to hassle with creating a local dev environment first.
 
 ### Production infrastructure
 
-Production infrastructure for web apps is sold in a range of service levels, 
-where the general idea is the more it costs, the less work you have to do yourself,
+Production infrastructure for web apps is sold á la carte in a range of service levels with
+ the general idea being the more it costs, the less work you have to do yourself,
 and vice versa.
 Every business has to find its own sweet spot for its own needs and budget.
 
@@ -103,10 +102,10 @@ Some will be worth it. Some will not.
 
 **Bare metal** servers can still be run in this day and age,
 especially if you enjoy that sort of thing. 
-But for me bare metal is
+But for me it's
 only worth the trouble when an application's resource usage doesn't match the horizontally scalable models of the cloud providers.
 
-### Deployment and dev-ops
+### Deployment and DevOps
 
 Deploying a change from development to production should be easy and safe.
 Pre-release testing and post-release monitoring are two sides of the same coin,
@@ -147,21 +146,22 @@ basic testing and monitoring can make changes safer,
 detecting problems before or after deployment,
 and making it easy to revert if needed.
 
-With the legacy codebase documented and changeable,
-it becomes practical to decide what changes should be made to improve it, and where it should reside in the overall architecture.
-
-To keep the legacy application intact while making improvements, it becomes necessary to split the architecture somehow, to allow simultaneous work on both the old and new. The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a common way to think about it.
+Any new architecture should be created in parallel, 
+while the legacy application keeps running for as long as it's needed. 
+This requires the architecture to be split somehow, 
+to allow simultaneous work on both the old and new. 
+The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a useful way to think about this challenge.
 
 Code review and training keeps the legacy codebase gradually improving, along with the team that maintains it.
 Grimes IT can provide code review as a service or dedicated training sessions.
 
 ### Integrating new technologies
 
-Having an established legacy application doesn't have to stop you from having shiny new applications, too.
+Having an established legacy application doesn't mean you can't have shiny new applications, too.
 
 To integrate new technologies, while keeping all the useful features of legacy services, 
-it can be useful to encapsulate the legacy system into a "black box" with a convenient API,
-to abstract away the internal complexity of the legacy codebase.
+it helps to encapsulate the legacy system into a "black box" with a convenient APIs,
+to abstract away the internal complexity of the legacy codebase from other projects.
 
 The legacy API can then be exposed using a variety of transports and architectures (HTTP, Websockets, REST, GraphQL, etc.), as newer technologies require.
 
