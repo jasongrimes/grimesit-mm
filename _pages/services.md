@@ -8,6 +8,8 @@ Grimes IT provides technical services to grow web-based businesses.
 
 ## Full-stack web development
 
+![full](/assets/images/feature-development-ltr.jpg){: .full}
+
 Grimes IT develops web applications. 
 Converting ideas into products through code,
 creating something from nothing, in a sense. 
