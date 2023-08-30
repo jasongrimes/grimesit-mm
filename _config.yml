@@ -60,6 +60,7 @@ plugins:
 author:
   name   : "Jason Grimes"
   avatar : "/assets/images/jg-headshot-iceland.png"
+  home: "/about/"
   bio    : "More than a full-stack developer."
   location: "Raleigh, NC"
   links:
