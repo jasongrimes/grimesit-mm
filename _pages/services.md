@@ -170,6 +170,6 @@ to abstract away the internal complexity of the legacy codebase from other proje
 
 The legacy API can then be exposed using a variety of transports and architectures (HTTP, Websockets, REST, GraphQL, etc.), as newer technologies require.
 
-## Contact
+## Estimate your project
 
 Does your business need help with something like this? [Contact me.](/contact/)
