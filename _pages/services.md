@@ -31,9 +31,9 @@ Additional "batteries included" frameworks like NextJS (for React) and NuxtJS (f
 Some cases still call for old school SSR (server-side rendered) PHP applications.
 I've built a generation of PHP apps with a variety of architectures, including full-stack frameworks like Symfony, Zend/Laminas, and Laravel; microframeworks like Slim and Silex; home-grown frameworks; and third-party ecosystems like Wordpress and Moodle.
 
-Regardless of the underlying architecture, good user interfaces need good designers,
-who are often outside specialists unfamiliar with the application's underlying technology.
-It should be as convenient as possible for outside designers to contribute to the user interface.
+A good user interface needs a good designer,
+who is often an outside specialist unfamiliar with the application's underlying technology.
+The architecture should make it as convenient as possible for outside designers to contribute to the user interface.
 
 ### Databases
 
