@@ -25,6 +25,6 @@ and conducting original research and development.
 Though I have no employees, there is no such thing as a one man band in business or technology. 
 I'm supported by a network of friends and experts in systems, design, development, and business as needed.
 
-I'm a fixer. A pragmatist. I like to solve useful problems.
+I am a fixer. A pragmatist. I like to solve useful problems.
 
 Can I solve a problem for you? [Contact me](/contact/).
