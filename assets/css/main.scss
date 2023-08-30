@@ -16,3 +16,7 @@ $primary-color: #00b386 !default;
     background-color: transparent;
     color: #ccc;
 }
+.btn--inverse:hover {
+    background-color: #666;
+    color: #eee;
+}
