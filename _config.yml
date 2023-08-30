@@ -17,8 +17,8 @@ title: Grimes IT, LLC
 subtitle: "Creator of fine technology"
 email: contact@grimesit.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Scale your SaaS with an experienced development partner 
-  who can build, secure, modernize, and scale your JavaScript or PHP web application.
+  Scale your web app. Choose an experienced technical partner 
+  develop and scale your JavaScript or PHP web application.
 github_username: jasongrimes
 #twitter_username: jason_grimes
 minimal_mistakes_skin: dark
@@ -61,7 +61,7 @@ author:
   name   : "Jason Grimes"
   avatar : "/assets/images/jg-headshot-iceland.png"
   home: "/about/"
-  bio    : "More than a full-stack developer."
+  bio    : "Owner and Principal Engineer, Grimes IT, LLC."
   location: "Raleigh, NC"
   links:
     - label: "GitHub"
