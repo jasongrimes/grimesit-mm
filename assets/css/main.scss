@@ -7,11 +7,12 @@ search: false
 
 // Grimes IT colors
 $primary-color: #00b386 !default;
-.btn .btn--inverse {
-    background: transparent;
-    color: #ccc;
-}
 
 // Minimal mistakes theme
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.btn .btn--inverse {
+    background-color: transparent;
+    color: #ccc;
+}
