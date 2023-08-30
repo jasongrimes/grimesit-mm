@@ -12,7 +12,7 @@ Grimes IT provides technical services to grow web-based businesses.
 
 Grimes IT develops web applications. 
 Converting ideas into products through code,
-creating something from nothing, in a sense. 
+in a sense creating something from nothing. 
 That's the main value proposition.
 
 So what is the "full stack"?
@@ -67,6 +67,8 @@ I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
 ## Web infrastructure
 
+![full](/assets/images/feature-infrastructure2.jpg){: .full}
+
 From bare metal to cloud, servers to VMs, and containers to serverless, I've been scaling real-world systems for decades. Before that, I was a network engineer in Silicon Valley. I know the web down to TCP/IP.
 
 ### Development environments
@@ -116,6 +118,8 @@ and I've used a variety of build environments and CI/CD toolchains.
 
 
 ## Modernizing legacy applications
+
+![full](/assets/images/feature-legacy.jpg){: .full}
 
 ### Upgrading ancient LAMP stacks
 
