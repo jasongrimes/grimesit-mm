@@ -73,7 +73,7 @@ Before that, I was a network engineer in Silicon Valley. I know the web down to 
 ### Development environments
 
 I run all my development environments in Docker containers now,
-so I can install whatever mad dependency a project might need without messing up my own computer.
+so I can install whatever mad dependency a project might require without messing up my own computer.
 Containers are also useful because they can closely reproduce entire production environments
 (databases, caches, cloud services, and all)
 and even simplify deployment, infrastructure, and operations.
