@@ -102,7 +102,7 @@ Some will be worth it. Some will not.
 
 **Bare metal** servers can still be run in this day and age,
 especially if you enjoy that sort of thing. 
-But for me bare metal is
+But for me it's
 only worth the trouble when an application's resource usage doesn't match the horizontally scalable models of the cloud providers.
 
 ### Deployment and DevOps
