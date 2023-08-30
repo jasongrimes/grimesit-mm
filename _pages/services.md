@@ -92,7 +92,9 @@ Every business has to find its own sweet spot for its own needs and budget.
 For new or experimental applications, full-featured **managed platform** providers like Vercel, Heroku, or Digital Ocean can be useful.
 But they tend to become overly expensive beyond early stages.
 
-**Managed service** providers can make sense for specialized management of particularly complex or important parts of the stack, like databases. But beware of vendor lock-in.
+**Managed service** providers can valuable for specializing in particularly complex or important parts of the stack, 
+like databases and network services. 
+Just beware of vendor lock-in.
 
 For everything else, **infrastructure services** like AWS tend to be the most practical and economical choice.
 Consider that most managed service providers are probably using AWS or something comparable themselves,
