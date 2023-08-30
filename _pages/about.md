@@ -22,7 +22,7 @@ It was successful, so I did that for a long time.
 Eventually I (re)started Grimes IT,
 providing technical services to select clients
 and conducting original research and development.
-Though I have no employees, there is no such thing as a one man band in technology or business. 
+Though I have no employees, there is no such thing as a one man band in business or technology. 
 I'm supported by a network of friends and experts in systems, design, development, and business as needed.
 
 I'm a fixer. A pragmatist. I like to solve useful problems.
