@@ -4,7 +4,7 @@ title: "Services"
 toc: true
 ---
 
-Grimes IT provides technical services to grow web-based businesses.
+Grimes IT provides technical services to help web-based businesses grow.
 
 ## Full-stack web development
 
