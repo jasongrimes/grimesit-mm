@@ -84,8 +84,8 @@ For new projects and quick changes, GitHub Codespaces can be an easy way to get 
 
 ### Production infrastructure
 
-Production infrastructure for web apps is sold in a range of service levels, 
-where the general idea is the more it costs, the less work you have to do yourself,
+Production infrastructure for web apps is sold as a range of service levels with
+ the general idea that the more it costs, the less work you have to do yourself,
 and vice versa.
 Every business has to find its own sweet spot for its own needs and budget.
 
