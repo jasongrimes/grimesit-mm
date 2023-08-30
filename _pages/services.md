@@ -67,7 +67,7 @@ I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
 ![full](/assets/images/feature-infrastructure2.jpg){: .full}
 
-I've scaled real-world systems for decades, from bare metal to cloud, servers to VMs, and containers to serverless. 
+From bare metal to cloud, server to VM, container to serverless, I've scaled real-world systems for decades. 
 Before that, I was a network engineer in Silicon Valley. I know the web down to TCP/IP.
 
 ### Development environments
