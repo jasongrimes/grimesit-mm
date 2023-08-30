@@ -123,7 +123,7 @@ and I've used a variety of build environments and CI/CD toolchains.
 ![full](/assets/images/feature-legacy.jpg){: .full}
 
 Successful applications last, and technical debt accumulates. 
-I modernize LAMP stacks and respect the legacy.
+We modernize LAMP stacks and respect the legacy.
 
 ### Upgrading ancient LAMP stacks
 
