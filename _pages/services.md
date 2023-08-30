@@ -160,7 +160,8 @@ to allow simultaneous work on both the old and new.
 The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a useful way to think about this challenge.
 
 Code review and training keeps the legacy codebase gradually improving, along with the team that maintains it.
-Grimes IT can provide code review as a service or dedicated training sessions.
+
+Grimes IT provides code review as a service and customized training sessions.
 
 ### Integrating new technologies
 
