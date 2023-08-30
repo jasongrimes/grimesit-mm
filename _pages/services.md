@@ -105,7 +105,7 @@ especially if you enjoy that sort of thing.
 But for me bare metal is
 only worth the trouble when an application's resource usage doesn't match the horizontally scalable models of the cloud providers.
 
-### Deployment and dev-ops
+### Deployment and DevOps
 
 Deploying a change from development to production should be easy and safe.
 Pre-release testing and post-release monitoring are two sides of the same coin,
