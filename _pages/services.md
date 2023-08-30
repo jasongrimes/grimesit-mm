@@ -39,7 +39,7 @@ The architecture should make it as convenient as possible for outside designers 
 
 Data is the core of a web business, and it needs to be stored and used in a secure and efficient way.
 
-A *relational database* like Postgres or MySQL is often a good choice for the core data store,
+A *relational* database like Postgres or MySQL is often a good choice for the core data store,
 though NoSQL options like MongoDB can have their place.
 I spent many years pushing MySQL and Postgres to their early limits to scale web apps.
 I like common ORM libraries for basic database interactions,
