@@ -12,7 +12,7 @@ Grimes IT provides technical services to help web-based businesses grow.
 ![full](/assets/images/feature-development-ltr.jpg){: .full}
 
 Grimes IT specializes in web application development---building 
-software applications that run on the world wide web.
+software applications that run on the World Wide Web.
 
 So what is "full stack" development?
 Think of a web app as a collection of technology choices,
