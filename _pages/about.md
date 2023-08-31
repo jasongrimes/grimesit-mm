@@ -12,7 +12,7 @@ Starting as a network engineer in 1990s Silicon Valley,
 I installed computer labs and Internet in a dozen cash-strapped public schools.
 I was a sysadmin for Unix, Windows, and early Linux,
 learned programming in C, C++ and Java,
-then fell in love with the world wide web and specialized in web applications.
+then fell in love with the World Wide Web and specialized in web applications.
 I’ve written production PHP and JavaScript code since the dawn of both languages,
 and grown along as they evolved into mature ecosystems that power the modern web.
 
