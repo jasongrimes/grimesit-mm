@@ -8,11 +8,11 @@ title: "About"
 I’m Jason Grimes, owner and Principal Engineer. I’ve been building web applications for a long time.
 
 I started out as a network engineer in 1990s Silicon Valley, installing computer labs and Internet connections in a dozen under-resourced public schools.
-I was a sysadmin for Unix, Windows, and early Linux.
-I learned to program in C, C++ and Java,
-then fell in love with the Internet and began to specialize in web applications.
-I’ve written production PHP and JavaScript code since the earliest days of both,
-and enjoyed their evolution into mature and powerful languages that run the modern web.
+I was a sysadmin for Unix, Windows, and early Linux,
+learned programming in C, C++ and Java,
+then fell in love with the Internet and specialized in web applications.
+I’ve written production PHP and JavaScript code since the dawn of both languages,
+and grown with them as they evolved into mature and powerful languages that run the modern web.
 
 I helped start-up, scale, and operate [ProZ.com](https://www.proz.com/),
 now the world’s largest network of professional translators and linguists,
