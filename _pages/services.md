@@ -2,6 +2,7 @@
 permalink: /services/
 title: "Services"
 toc: true
+author_profile: false
 ---
 
 Grimes IT provides technical services to help web-based businesses grow.
