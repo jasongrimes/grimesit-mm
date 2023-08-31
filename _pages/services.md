@@ -20,7 +20,7 @@ Think of a web app as a collection of technology choices,
 stacked together like bricks or a card deck.
 A full-stack developer can work with all the technologies in the stack.
 
-Web application stacks generally include: user interfaces, data, business logic, and APIs.
+Web application stacks generally include user interfaces, data, business logic, and APIs.
 
 ### User interfaces
 
