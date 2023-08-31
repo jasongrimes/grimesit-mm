@@ -16,10 +16,10 @@ software applications that run on the world wide web.
 
 So what is "full stack" development?
 Think of a web app as a collection of technology choices,
-stacked together like bricks or a card deck.
-A full-stack developer can work with all the technologies in the stack.
+layered or stacked together like bricks or a card deck.
+A full-stack developer works with all the technologies in the stack.
 
-Web application stacks generally include user interfaces, data, business logic, and APIs.
+Web application stacks typically include layers for user interfaces, data, business logic, and APIs.
 
 ### User interfaces
 
