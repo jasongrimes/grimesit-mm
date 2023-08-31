@@ -8,8 +8,8 @@ title: "About"
 I’m Jason Grimes, owner and Principal Engineer. 
 I build web applications. I have for a long time.
 
-As network engineer in 1990s Silicon Valley, 
-I got my start installing computer labs and Internet in a dozen cash-strapped public schools.
+Starting as a network engineer in 1990s Silicon Valley, 
+I installed computer labs and Internet in a dozen cash-strapped public schools.
 I was a sysadmin for Unix, Windows, and early Linux,
 learned programming in C, C++ and Java,
 then fell in love with the world wide web and specialized in web applications.
