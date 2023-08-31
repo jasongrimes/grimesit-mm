@@ -5,7 +5,8 @@ title: "About"
 
 **Grimes IT, LLC** provides [technical services](/services/) to web-based businesses and conducts original research and development.
 
-I’m Jason Grimes, owner and Principal Engineer. I build web applications, and have for a long time.
+I’m Jason Grimes, owner and Principal Engineer. 
+I build web applications. I have for a long time.
 
 As network engineer in 1990s Silicon Valley, 
 I got my start installing computer labs and Internet in a dozen cash-strapped public schools.
