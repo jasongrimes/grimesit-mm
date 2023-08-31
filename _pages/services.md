@@ -5,8 +5,6 @@ toc: true
 author_profile: false
 ---
 
-## Grimes IT Services
-
 Grimes IT provides technical services to help web-based businesses grow.
 
 ## Full-stack web development
