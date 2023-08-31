@@ -20,3 +20,7 @@ $primary-color: #00b386 !default;
     background-color: #666;
     color: #eee;
 }
+
+a.btn--light-outline:not(:first-child) {
+    border: none;
+}
