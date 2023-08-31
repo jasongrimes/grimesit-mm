@@ -6,7 +6,7 @@ toc: true
 
 ## Grimes IT Services
 
-Grimes IT provides technical services to help grow web-based businesses.
+Grimes IT provides technical services to help web-based businesses grow.
 
 ## Full-stack web development
 
