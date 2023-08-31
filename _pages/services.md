@@ -5,6 +5,8 @@ toc: true
 author_profile: false
 ---
 
+## Grimes IT Services
+
 Grimes IT provides technical services to help web-based businesses grow.
 
 ## Full-stack web development
@@ -12,14 +14,14 @@ Grimes IT provides technical services to help web-based businesses grow.
 ![full](/assets/images/feature-development-ltr.jpg){: .full}
 
 Grimes IT specializes in web application development---building 
-software applications that run on the web.
+software applications that run on the world wide web.
 
 So what is "full stack" development?
-If we think of a web app as an assembly of various technology choices,
-stacked together like bricks or a card deck,
-a full-stack developer can work on all the technologies in the stack.
+Think of a web app as a collection of technology choices,
+stacked together like bricks or a card deck.
+A full-stack developer can work with all the technologies in the stack.
 
-A web application stack generally includes at least user interfaces, data, business logic, and APIs.
+Web application stacks generally include user interfaces, data, business logic, and APIs.
 
 ### User interfaces
 
@@ -63,7 +65,7 @@ I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
 
 
-## Web infrastructure
+## Infrastructure
 
 ![full](/assets/images/feature-infrastructure2.jpg){: .full}
 
@@ -92,7 +94,7 @@ Every business has to find its own sweet spot for its own needs and budget.
 For new or experimental applications, full-featured **managed platform** providers like Vercel, Heroku, or Digital Ocean can be useful.
 But they tend to become overly expensive beyond early stages.
 
-**Managed service** providers can valuable for specializing in particularly complex or important parts of the stack, 
+**Managed service** providers can be valuable for specializing in particularly complex or important parts of the stack, 
 like databases and network services. 
 Just beware of vendor lock-in.
 
