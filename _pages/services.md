@@ -3,7 +3,7 @@ permalink: /services/
 title: "Services"
 toc: true
 toc_sticky: true
-author_profile: false
+author_profile: true
 ---
 
 Grimes IT provides technical services to help web-based businesses grow.
