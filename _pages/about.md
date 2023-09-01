@@ -29,5 +29,4 @@ I have no employees,
 but I'm supported by a professional network of friends and experts in systems, design, development, and business.
 
 I am a fixer. A pragmatist. I like to solve useful problems.
-
-Can I solve a problem for you? [Contact me](/contact/).
+If I can solve a problem for you, [contact me](/contact/).
