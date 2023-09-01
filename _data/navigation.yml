@@ -19,6 +19,8 @@ foot:
         url: /about/
       - title: "Contact"
         url: /contact/
+      - title: "Privacy"
+        url: /privacy/
   
   - title: Services
     children:
@@ -33,7 +35,5 @@ foot:
     children:
       - title: "Articles"
         url: /articles/
-      - title: "Tools"
-        url: https://github.com/jasongrimes/
       - title: "Code"
         url: https://github.com/jasongrimes/
