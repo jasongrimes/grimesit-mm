@@ -11,9 +11,11 @@ main:
     url: /contact/
 
 foot:
-  - title: About
+  - title: "Grimes IT"
     children:
-      - title: "About Grimes IT"
+      - title: "Home"
+        url: https://grimesit.com/
+      - title: "About"
         url: /about/
       - title: "Contact"
         url: /contact/
