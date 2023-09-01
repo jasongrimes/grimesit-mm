@@ -127,21 +127,6 @@ Software only survives to become old and messy because it's been providing genui
 
 Successful applications last, and technical debt accumulates.
 
-### Upgrading ancient LAMP stacks
-
-According to [2023 surveys by W3Techs](https://w3techs.com/technologies/details/pl-php),
-around 75% of websites use PHP,
-and around 20% of those are still running PHP 5.
-
-PHP 5 has long been officially dead ("end of life"), 
-and is well known to be at least *twice as slow* as newer versions.
-Sites don't stay on PHP 5 because they like it. 
-Upgrading a core technology like PHP, MySQL, or Linux that has been powering a real business for a long time
-can be challenging and disruptive.
-
-But it can be done. It takes a well-thought-out migration plan, 
-practical testing and monitoring, mentorship and training, and some patience.
-
 ### Getting the legacy codebase unstuck
 
 A poorly documented legacy codebase is best approached by creating some good documentation.
@@ -172,6 +157,22 @@ it helps to encapsulate the legacy system into a "black box" with convenient API
 to abstract away the internal complexity of the legacy codebase from other projects.
 
 The legacy API can then be exposed using a variety of transports and architectures (HTTP, Websockets, REST, GraphQL, etc.), as newer technologies require.
+
+### Upgrading ancient LAMP stacks
+
+According to [2023 surveys by W3Techs](https://w3techs.com/technologies/details/pl-php),
+around 75% of websites use PHP,
+and around 20% of those are still running PHP 5.
+
+PHP 5 has long been officially dead ("end of life"), 
+and is well known to be at least *twice as slow* as newer versions.
+Sites don't stay on PHP 5 because they like it. 
+Upgrading a core technology like PHP, MySQL, or Linux that has been powering a real business for a long time
+can be challenging and disruptive.
+
+But it can be done. It takes a well-thought-out migration plan, 
+practical testing and monitoring, mentorship and training, and some patience.
+
 
 ## Estimate your project
 
