@@ -19,7 +19,7 @@ and as they matured into serious languages that run the modern web.
 I helped start-up, scale and operate [**ProZ.com**](https://www.proz.com/),
 now the world’s largest network of professional translators and linguists,
 and a good model of a long-term profitable, bootstrapped small business.
-It was successful, so I did that for a long time.
+It was successful so I did that a long time.
 
 Now I own **Grimes IT, LLC**,
 the legal entity under which I provide 
