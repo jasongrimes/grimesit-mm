@@ -24,3 +24,8 @@ $primary-color: #00b386 !default;
 a.btn--light-outline:not(:first-child) {
     border: none;
 }
+
+.foot>li {
+    float: left;
+    padding: 1em;
+}
