@@ -78,6 +78,7 @@ author:
     #   url: "https://twitter.com/jason_grimes"
 
 footer:
+  nav: "foot"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
