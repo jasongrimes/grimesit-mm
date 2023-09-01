@@ -16,7 +16,7 @@ then fell in love with the World Wide Web and specialized in web applications.
 I’ve written production **PHP** and **JavaScript** since the dawn of both,
 and as they matured into serious languages that run the modern web.
 
-I helped start-up, scale, and operate [**ProZ.com**](https://www.proz.com/),
+I helped start-up scale and operate [**ProZ.com**](https://www.proz.com/),
 now the world’s largest network of professional translators and linguists,
 and a good model of a long-term profitable, bootstrapped small business.
 It was successful, so I did that for a long time.
