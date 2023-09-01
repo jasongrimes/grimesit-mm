@@ -49,3 +49,9 @@ a.btn--light-outline:not(:first-child) {
     display: block;
     font-size: 1.3em;
 }
+
+@media (max-width: 600px) {
+    .footer-nav>ul>li {
+        display: block;
+    }
+  }
