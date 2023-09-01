@@ -21,9 +21,10 @@ now the world’s largest network of professional translators and linguists,
 and a good model of a long-term profitable, bootstrapped small business.
 It was successful, so I did that for a long time.
 
-Now I own **Grimes IT**,
-providing technical services to select clients
-and conducting original research and development.
+Now I own **Grimes IT, LLC**,
+the legal entity under which I provide 
+technical services to select clients
+and conduct original research and development.
 I have no employees,
 but I'm supported by a professional network of friends and experts in systems, design, development, and business.
 
