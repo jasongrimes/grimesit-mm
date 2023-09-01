@@ -30,7 +30,7 @@ and a good model of a long-term profitable, bootstrapped small business.
 It was successful so I did that a long time.
 
 Now I own **Grimes IT, LLC**,
-a legal entity under which I provide 
+the legal entity under which I provide 
 technical services to select clients
 and conduct original research and development.
 I have no employees,
