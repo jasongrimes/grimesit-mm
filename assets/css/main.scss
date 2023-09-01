@@ -53,5 +53,6 @@ a.btn--light-outline:not(:first-child) {
 @media (max-width: 600px) {
     .footer-nav>ul>li {
         display: block;
+        padding-bottom:1em;
     }
   }
