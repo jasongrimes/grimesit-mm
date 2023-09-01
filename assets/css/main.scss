@@ -39,11 +39,11 @@ a.btn--light-outline:not(:first-child) {
 .footer-nav {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px,1fr));
-    align-items: center;
 }
 .footer-nav>ul>li {
     display: inline-block;
     padding-right: 2em;
+    vertical-align: top;
 }
 .footer-nav .site-title {
     display: block;
