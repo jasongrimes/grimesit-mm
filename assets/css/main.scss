@@ -31,3 +31,7 @@ a.btn--light-outline:not(:first-child) {
     grid-template-columns: 2f 1f 2f 1f;
     gap: 2em;
 }
+
+.feature__wrapper {
+    border-bottom: none;
+}
