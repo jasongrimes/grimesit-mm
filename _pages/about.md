@@ -21,7 +21,7 @@ now the world’s largest network of professional translators and linguists,
 and a good model of a long-term profitable, bootstrapped small business.
 It was successful, so I did that for a long time.
 
-Eventually I (re)started Grimes IT,
+Now I operate as Grimes IT,
 providing technical services to select clients
 and conducting original research and development.
 I have no employees,
