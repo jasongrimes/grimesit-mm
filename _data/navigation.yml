@@ -9,3 +9,27 @@ main:
     url: /about/
   - title: "Contact"
     url: /contact/
+
+foot:
+  - title: About
+    children:
+      - title: "About Grimes IT"
+        url: /about/
+      - title: "Contact"
+        url: /contact/
+  
+  - title: Services
+    children:
+      - title: "Web development"
+        url: /services/#full-stack-web-development
+      - title: "Infrastructure"
+        url: /services/#infrastructure
+      - title: "Legacy"
+        url: /services/#modernizing-legacy-applications
+
+  - title: Resources
+    children:
+      - title: "Articles"
+        url: /articles/
+      - title: "GitHub"
+        url: https://github.org/jasongrimes/
