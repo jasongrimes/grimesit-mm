@@ -27,6 +27,7 @@ a.btn--light-outline:not(:first-child) {
 
 .foot {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px;
+    // grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: 2f 1f 2f 1f;
+    gap: 2em;
 }
