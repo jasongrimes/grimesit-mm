@@ -9,7 +9,7 @@ header:
 #     - label: "Estimate your project"
 #       url: "/contact/"
 excerpt: >
-  LLC. Creator of fine technology
+  LLC. Creator of fine technology.
 ---
 
 **Grimes IT, LLC** provides [technical services](/services/) to web-based businesses and conducts original research and development.
