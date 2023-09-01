@@ -11,7 +11,7 @@ main:
     url: /contact/
 
 foot:
-  - title: "Grimes IT"
+  - title: "Company"
     children:
       - title: "Home"
         url: https://grimesit.com/
@@ -33,5 +33,7 @@ foot:
     children:
       - title: "Articles"
         url: /articles/
-      - title: "GitHub"
-        url: https://github.org/jasongrimes/
+      - title: "Tools"
+        url: https://github.com/jasongrimes/
+      - title: "Code"
+        url: https://github.com/jasongrimes/
