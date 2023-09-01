@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Grimes IT, LLC"
+title: "About Grimes IT"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/header-dark-cubes-bw.jpeg
