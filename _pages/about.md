@@ -13,15 +13,15 @@ I installed computer labs and Internet in a dozen cash-strapped public schools.
 I was a sysadmin for Unix, Windows, and early Linux,
 learned programming in C, C++ and Java,
 then fell in love with the World Wide Web and specialized in web applications.
-I’ve written production PHP and JavaScript code since the dawn of both languages,
-and grown along as they evolved into mature ecosystems that power the modern web.
+I’ve written production PHP and JavaScript since the dawn of both,
+gradually maturing into serious languages that run the modern web.
 
 I helped start-up, scale, and operate [ProZ.com](https://www.proz.com/),
 now the world’s largest network of professional translators and linguists,
 and a good model of a long-term profitable, bootstrapped small business.
 It was successful, so I did that for a long time.
 
-Now I operate as Grimes IT,
+Now I own Grimes IT, LLC,
 providing technical services to select clients
 and conducting original research and development.
 I have no employees,
