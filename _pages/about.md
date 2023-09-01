@@ -14,7 +14,7 @@ I was a **sysadmin** for **Unix**, **Windows**, and early **Linux**,
 learned programming in **C, C++** and **Java**,
 then fell in love with the World Wide Web and specialized in web applications.
 I’ve written production **PHP** and **JavaScript** since the dawn of both,
-and with them maturing into serious languages that run the modern web.
+as they matured into serious languages that run the modern web.
 
 I helped start-up, scale, and operate [**ProZ.com**](https://www.proz.com/),
 now the world’s largest network of professional translators and linguists,
