@@ -129,9 +129,9 @@ Successful applications last, and technical debt accumulates.
 
 ### Getting the legacy codebase unstuck
 
-A poorly documented legacy codebase is best approached by creating some good documentation.
-That lets everyone reach the same understanding about important parts of the application and the business,
-and it delivers a valuable artifact to the client early in a project.
+A poorly documented legacy codebase is best approached by creating good documentation.
+It gets everyone on the same (literal) page about important parts of the app and business,
+and it's a valuable product to deliver the client when first getting to know them.
 
 Since legacy codebases can be fragile and risky to change,
 basic testing and monitoring can make changes safer,
