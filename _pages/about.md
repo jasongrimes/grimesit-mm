@@ -18,7 +18,7 @@ I’m **Jason Grimes**, owner and Principal Engineer.
 I build **web applications**, and have for a long time.
 
 I’ve written production **JavaScript** and **PHP** code since the dawn of both languages,
-as they matured into serious technologies that run the modern web.
+as they matured into serious technologies that run the **modern web**.
 Before I **specialized in web apps**
 I was a **sysadmin** in **Unix**, **Windows**, and early **Linux**,
 and learned to program in **C, C++** and **Java**.
