@@ -37,13 +37,13 @@ a.btn--light-outline:not(:first-child) {
     margin-top: 0.5em;
 }
 .feature-avatar {
-    width: 36px;
-    height: 36px;
+    /* width: 36px;
+     height: 36px;*/
     vertical-align: top;
     /* display: table-cell; */
 }
 
-.featire__avatar img {
+.feature-avatar img {
     max-width: 110px;
     border-radius: 50%;
     padding: 5px;
