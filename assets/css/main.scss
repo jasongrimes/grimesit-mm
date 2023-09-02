@@ -39,6 +39,7 @@ a.btn--light-outline:not(:first-child) {
 .footer-nav {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px,1fr));
+    margin-bottom: 1em;
 }
 .footer-nav>ul>li {
     display: inline-block;
@@ -53,6 +54,7 @@ a.btn--light-outline:not(:first-child) {
 @media (max-width: 600px) {
     .footer-logo {
         display: block;
+        margin-bottom: 1em;
     }
     /*
     .footer-nav>ul>li {
