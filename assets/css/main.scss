@@ -40,11 +40,15 @@ a.btn--light-outline:not(:first-child) {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px,1fr));
     margin-bottom: 1em;
+    align-items: center;
 }
 .footer-nav>ul>li {
     display: inline-block;
     padding-right: 2em;
     vertical-align: top;
+}
+.footer-nav>ul>li>ul>li {
+    padding: 1em;
 }
 .footer-nav .site-title {
     display: block;
