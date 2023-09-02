@@ -29,7 +29,7 @@ now the world’s largest network of professional translators and linguists,
 and a good model of a long-term profitable, bootstrapped small business.
 It was successful so I did that a long time.
 
-Now I own **Grimes IT, LLC**,
+Now I own [**Grimes IT, LLC**](https://grimesit.com),
 the legal entity under which I provide 
 technical services to select clients
 and conduct original research and development.
