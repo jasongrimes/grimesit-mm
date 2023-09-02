@@ -12,10 +12,10 @@ title: "About"
 #  Creator of fine technology
 ---
 
-**Grimes IT, LLC** provides [technical services](/services/) to web-based businesses and conducts original research and development.
+**Grimes IT, LLC** provides technical [services](/services/) to web-based businesses and conducts original research and development.
 
 I’m **Jason Grimes**, owner and Principal Engineer. 
-I build **web applications**, and have done so for a long time.
+I build **web applications**, and have for a long time.
 
 I’ve written production **JavaScript** and **PHP** code since the dawn of both languages,
 as they matured into serious technologies that run the modern web.
@@ -34,7 +34,8 @@ the legal entity under which I provide
 technical services to select clients
 and conduct original research and development.
 I have no employees,
-but I'm supported by a professional network of friends and experts in systems, design, development, and business.
+but I'm supported by a professional network of friends and experts in systems, design, development, and business,
+to whom I am grateful.
 
 I am a fixer. A pragmatist. I like to solve useful problems.
-If I can solve a problem for you, please [contact me](/contact/).
+If I can solve a problem for you, please [contact](/contact/) me.
