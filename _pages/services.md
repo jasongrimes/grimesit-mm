@@ -10,7 +10,7 @@ Grimes IT provides technical services to grow web-based businesses.
 
 ## Full-stack web development
 
-![full](/assets/images/feature-development-ltr.jpg){: .full}
+![full](/assets/images/feature-development.webp){: .full}
 
 Grimes IT specializes in **web app development**---building software applications that run on the World Wide Web.
 
@@ -65,7 +65,7 @@ I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
 ## Infrastructure
 
-![full](/assets/images/feature-infrastructure2.jpg){: .full}
+![full](/assets/images/feature-infrastructure.webp){: .full}
 
 From bare metal to cloud, server to VM, container to serverless, I've scaled real-world systems for decades. 
 Before that, I was a network engineer in Silicon Valley. I know the web down to TCP/IP.
@@ -120,7 +120,7 @@ and I've used a variety of build environments and CI/CD toolchains.
 
 ## Modernizing legacy applications
 
-![full](/assets/images/feature-legacy.jpg){: .full}
+![full](/assets/images/feature-legacy.webp){: .full}
 
 Respect the legacy. 
 Software only survives to become old and messy because it's been providing genuine value to the business for a long time.
