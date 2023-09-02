@@ -1,15 +1,15 @@
 ---
 permalink: /about/
-title: "About Grimes IT"
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/header-dark-cubes-bw.jpeg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+title: "About"
+#header:
+#  overlay_color: "#5e616c"
+#  overlay_image: /assets/images/header-dark-cubes-bw.jpeg
+#  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 #   actions:
 #     - label: "Estimate your project"
 #       url: "/contact/"
-excerpt: >
-  Creator of fine technology
+#excerpt: >
+#  Creator of fine technology
 ---
 
 **Grimes IT, LLC** provides [technical services](/services/) to web-based businesses and conducts original research and development.
