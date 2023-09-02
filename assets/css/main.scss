@@ -41,7 +41,9 @@ a.btn--light-outline:not(:first-child) {
     grid-template-columns: repeat(auto-fit, minmax(240px,1fr));
     margin-bottom: 1em;
     align-items: end;
+    opacity: 0.5;
 }
+.footer-nav a:hover { opacity: 1; }
 .footer-nav>ul>li {
     display: inline-block;
     padding-right: 1.25em;
