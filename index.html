@@ -46,41 +46,21 @@ feature_row:
 
 {% include feature_row %}
 
-<h2>About Grimes IT</h2>
-
-{% assign author = page.author | default: page.authors[0] | default: site.author %}
-  {% assign author = site.data.authors[author] | default: author %}
-  {% if author.avatar %}
-    <div class="author__avatar" style="display: table-cell;">
-      <a href="{{ author.home | default: '/' | absolute_url }}">
-        <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" class="u-photo">
-      </a>
-    </div>
-  {% endif %}
-
-  <p>
-    I'm Jason, owner and Principal Engineer of Grimes IT, LLC.
-    Learn more <a href="/about/">about</a> it,
-    or <a href="/contact/">contact</a> me to discuss your project.
-  </p>
-
-<!--
-<div class="text-center">
+<div class="feature-about" style="text-align: center;">
   {% assign author = page.author | default: page.authors[0] | default: site.author %}
   {% assign author = site.data.authors[author] | default: author %}
   {% if author.avatar %}
-    <div class="author__avatar" style="display: table-cell;">
+    <div class="author__avatar">
       <a href="{{ author.home | default: '/' | absolute_url }}">
         <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" class="u-photo">
       </a>
     </div>
   {% endif %}
-    
-  <div style="display:block; vertical-align: middle;">
-    I’m Jason Grimes, owner and Principal Engineer of Grimes IT.
-    Learn more <a href="/about">about</a> that,
-    or <a href="/contact/">contact</a> me to discuss your project.
-  </div>
-  </div>
-  -->
 
+  <h3>I'm Jason Grimes,</h3>
+  <h4>Owner and Principal Engineer of Grimes IT, LLC.</h4>
+  <p>
+    Learn <a href="/about/"><strong>about</strong></a> Grimes IT,
+    or <a href="/contact/"><strong>contact</strong>></a> me to discuss your project.
+  </p>
+</div>
