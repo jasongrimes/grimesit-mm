@@ -46,22 +46,22 @@ feature_row:
 
 {% include feature_row %}
 
-<div class="feature-about" style="text-align: center;">
+<div class="feature-about">
   {% assign author = page.author | default: page.authors[0] | default: site.author %}
   {% assign author = site.data.authors[author] | default: author %}
   {% if author.avatar %}
-    <div class="author__avatar" style="display:inline-block;">
+    <div class="feature-avatar"">
       <a href="{{ author.home | default: '/' | absolute_url }}">
         <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" class="u-photo">
       </a>
     </div>
   {% endif %}
 
-  <h3 style="margin-top: 0.5em;">I'm Jason Grimes,</h3>
+  <h3>I'm Jason Grimes,</h3>
   <p>
-    owner and Principal Engineer of Grimes IT.
+    owner and Principal Engineer behind Grimes IT.
     <br />
-    Learn <a href="/about/"><strong>about</strong></a> Grimes IT,
+    Read <a href="/about/"><strong>about</strong></a> Grimes IT,
     or <a href="/contact/"><strong>contact</strong></a> me to discuss your project.
   </p>
 </div>
