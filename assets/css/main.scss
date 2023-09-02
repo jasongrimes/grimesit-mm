@@ -47,9 +47,7 @@ a.btn--light-outline:not(:first-child) {
     padding-right: 2em;
     vertical-align: top;
 }
-.footer-nav>ul>li>ul>li {
-    padding: 1em;
-}
+
 .footer-nav .site-title {
     display: block;
     font-size: 1.3em;
@@ -59,6 +57,9 @@ a.btn--light-outline:not(:first-child) {
     .footer-logo {
         display: block;
         margin-bottom: 1em;
+    }
+    .footer-nav>ul>li>ul>li {
+        padding-bottom: 0.5em;
     }
     /*
     .footer-nav>ul>li {
