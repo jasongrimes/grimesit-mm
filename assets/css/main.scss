@@ -33,8 +33,10 @@ a.btn--light-outline:not(:first-child) {
 .feature-about {
     text-align: center;
 }
+.feature-about h2,
 .feature-about h3 {
     margin: 0.5em 0 0 0;
+    border-bottom: none;
 }
 .feature-avatar {
     /* width: 36px;
