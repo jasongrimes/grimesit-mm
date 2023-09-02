@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /
   - title: "Services"
     url: /services/
   # - title: "Articles"
