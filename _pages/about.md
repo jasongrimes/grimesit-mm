@@ -18,9 +18,6 @@ I’m **Jason Grimes**, owner and Principal Engineer.
 I build **web applications**, and have for a long time.
 
 I do **full-stack JavaScript** with **NodeJS, ES6, React, Next, Express**, etc.
-# and increasingly favor composition over inheritance,
-# functional programming over OOP, 
-# grounded by experience with solved problems from eras past.
 I’ve written production **JavaScript** and **PHP** code since the dawn of both languages,
 as they matured into serious technologies that run the **modern web**.
 Before I **specialized in web apps**
