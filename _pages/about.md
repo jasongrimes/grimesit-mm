@@ -23,7 +23,7 @@ as they matured into serious technologies that run the **modern web**.
 Before I **specialized in web apps**
 I was a **sysadmin** in **Unix**, **Windows**, and early **Linux**,
 and learned to program in **C, C++** and **Java**.
-Before that I was a **network engineer** in 1990s Silicon Valley installing computer labs and Internet connections in a dozen cash-strapped public schools.
+Before that I was a **network engineer** in 1990s Silicon Valley installing computer labs and Internet in a dozen public schools.
 
 I helped start-up, scale and operate [**ProZ.com**](https://www.proz.com/),
 now the world’s largest network of professional translators and linguists,
