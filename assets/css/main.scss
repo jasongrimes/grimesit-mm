@@ -54,6 +54,9 @@ a.btn--light-outline:not(:first-child) {
     margin-bottom: 1em;
 }
 
+.fiddley-foot { display: block; }
+.fiddley-foot.footer-foot { display: none; }
+
 @media (max-width: 600px) {
     .footer-logo {
         display: block;
@@ -62,6 +65,9 @@ a.btn--light-outline:not(:first-child) {
     .footer-nav>ul>li>ul>li {
         padding-bottom: 0.5em;
     }
+    .fiddley-foot { display: none; }
+    .fiddley-foot.footer-foot { display: block; }
+    
     /*
     .footer-nav>ul>li {
         display: block;
