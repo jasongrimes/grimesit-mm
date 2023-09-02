@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Jason Grimes"
-  avatar : "/assets/images/jg-headshot-iceland.png"
+  avatar : "/assets/images/jg-headshot-320x320.webp"
   home: "/about/"
   bio: "[Owner and Principal Engineer of Grimes IT](/about/)"
   location: "Raleigh, NC"
