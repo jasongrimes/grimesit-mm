@@ -125,7 +125,7 @@ and I've used a variety of build environments and CI/CD toolchains.
 Respect the legacy. 
 Software only survives to become old and messy because it's been providing genuine value to the business for a long time.
 
-Successful applications last, and technical debt accumulates.
+Successful applications endure, and technical debt accumulates.
 
 ### Getting the legacy codebase unstuck
 
