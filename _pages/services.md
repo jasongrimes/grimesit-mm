@@ -176,4 +176,4 @@ practical testing and monitoring, mentorship and training, and some patience.
 
 ## Estimate your project
 
-Does your business need help with something like this? [Contact me.](/contact/)
+Does your business need help with something like this? [Contact](/contact/) me.
