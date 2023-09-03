@@ -16,8 +16,8 @@ Grimes IT specializes in **web app development**---building software application
 
 What is **full stack** development?
 Think of the various technology choices for an app as being "layers" in a "stack".
-An app's tech stack is its collection of core technologies,
-and a full-stack developer works with all them.
+An app's tech stack is its core technologies,
+and a full-stack developer works with all of them.
 
 The layers of a web application stack typically include user interfaces, data, business logic, and APIs.
 
