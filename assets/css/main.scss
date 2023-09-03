@@ -31,7 +31,13 @@ a.btn--light-outline:not(:first-child) {
 
 .feature__wrapper {
     border-bottom: none;
-    /*margin-bottom: 0;*/
+    margin-bottom: 2em;
+}
+.feature__item {
+    margin-bottom: 4em;
+}
+.feature__item:last-child {
+    margin-bottom: 2em;
 }
 
 .feature-about {
