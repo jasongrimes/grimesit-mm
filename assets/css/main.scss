@@ -16,6 +16,9 @@ $global-transition : none;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Fix follow button hovering above main menu
+.masthead { z-index: 30; }
+
 .btn.btn--inverse {
     background-color: transparent;
     color: #ccc;
