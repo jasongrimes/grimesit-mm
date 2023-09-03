@@ -25,7 +25,7 @@ foot:
       - title: "Web development"
         url: /services/#full-stack-web-development
       - title: "Infrastructure"
-        url: /services/#infrastructure
+        url: /services/#web-infrastructure
       - title: "Legacy"
         url: /services/#modernizing-legacy-applications
 
