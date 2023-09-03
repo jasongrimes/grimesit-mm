@@ -8,6 +8,10 @@ search: false
 // Grimes IT colors
 $primary-color: #00b386 !default;
 
+// Animations. Disable by setting to none.
+$intro-transition  : none;
+$global-transition : none;
+
 // Minimal mistakes theme
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
