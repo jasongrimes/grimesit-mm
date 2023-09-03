@@ -17,7 +17,7 @@ title: "About"
 I’m **Jason Grimes**, owner and Principal Engineer. 
 I build **web applications**, and have for a long time.
 
-I do **full-stack JavaScript** with **NodeJS, ES6, React, Next, Express**, and so on.
+I do **full-stack JavaScript** with **NodeJS, React, Next, Express**, and so on.
 I’ve written production **JavaScript** and **PHP** code since the dawn of both languages,
 as they matured into serious technologies that run the **modern web**.
 Before I **specialized in web apps**
