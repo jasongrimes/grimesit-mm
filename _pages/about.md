@@ -28,7 +28,7 @@ Before that I was a **network engineer** in 1990s Silicon Valley installing comp
 I helped start-up, scale and operate [**ProZ.com**](https://www.proz.com/),
 now the world’s largest network of professional translators and linguists,
 and a good model of a long-term profitable bootstrapped small business.
-It was successful so I did that awhile.
+It was successful, so I did that awhile.
 
 Now I own [**Grimes IT, LLC**](https://grimesit.com),
 the legal entity under which I provide 
