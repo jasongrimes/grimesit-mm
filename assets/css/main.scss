@@ -40,6 +40,11 @@ a.btn--light-outline:not(:first-child) {
     margin-bottom: 4em;
 }
 
+.feature__item .btn {
+    color: #000;
+    font-weight: normal;
+}
+
 .feature-about {
     text-align: center;
 }
@@ -107,6 +112,9 @@ a.btn--light-outline:not(:first-child) {
 
     .archive__item-excerpt {
         font-size: 1em;
+    }
+    .feature__item .btn {
+        font-size: 0.9em;
     }
 
     /*
