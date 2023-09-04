@@ -42,8 +42,8 @@ a.btn--light-outline:not(:first-child) {
   margin-bottom: 4em;
 }
 
-.feature-about .btn,
-.feature__item .btn {
+.feature-about .btn--primary,
+.feature__item .btn--primary {
   color: #000;
 }
 
