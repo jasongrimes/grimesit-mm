@@ -42,6 +42,7 @@ a.btn--light-outline:not(:first-child) {
   margin-bottom: 4em;
 }
 
+.feature-about .btn,
 .feature__item .btn {
   color: #000;
 }
@@ -121,6 +122,7 @@ a.btn--light-outline:not(:first-child) {
   .archive__item-excerpt {
     font-size: 1em;
   }
+  .feature-about .btn,
   .feature__item .btn {
     font-size: 0.9em;
   }
