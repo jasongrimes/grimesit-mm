@@ -21,7 +21,7 @@ I do full-stack **JavaScript** with **Node, React, Next, Express**, and so on.
 I’ve written production **JavaScript** and **PHP** code since the dawn of both languages,
 as they matured into serious technologies that run the **modern web**.
 Before I **specialized in web apps**
-I was a **sysadmin** in **Unix**, **Windows**, and early **Linux**,
+I was a **sysadmin** in early **Linux**, **Unix**, and **Windows**
 and learned to program in **C, C++** and **Java**.
 Before that I was a **network engineer** in 1990s Silicon Valley installing computer labs and Internet in a dozen public schools.
 
