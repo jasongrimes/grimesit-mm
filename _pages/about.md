@@ -31,7 +31,7 @@ and a good model of a long-term profitable bootstrapped small business.
 It was successful, so I did that awhile.
 
 Now I own [**Grimes IT, LLC**](https://grimesit.com),
-a business that builds web applications and provides technical products and services.
+a small business that builds web applications and provides technical products and services.
 I have no employees,
 but I'm supported by a network of friends and seasoned experts in systems, design, development, and business,
 to whom I am grateful.
