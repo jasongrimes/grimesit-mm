@@ -20,7 +20,7 @@ including user interfaces, data, business logic, APIs, infrastructure, developme
 
 In modern web development, user interface often means **JavaScript**.
 
-I use client-side JavaScript frameworks like React, Vue, and Angular to provide rich user experiences.
+I use client-side JavaScript libraries like React, Vue, and Angular to provide rich user experiences.
 Additional "batteries included" frameworks like NextJS (for React) and NuxtJS (for Vue) can be helpful to add some server-side magic, and to simplify best practice and architecture decisions. 
 
 Some cases still call for old school SSR (server-side rendered) PHP applications.
