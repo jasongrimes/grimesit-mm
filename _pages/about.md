@@ -31,11 +31,9 @@ and a good model of a long-term profitable bootstrapped small business.
 It was successful, so I did that awhile.
 
 Now I own [**Grimes IT, LLC**](https://grimesit.com),
-the legal entity under which I provide 
-technical services to select clients
-and conduct original research and development.
+a business that builds web applications and provides technical products and services.
 I have no employees,
-but I'm supported by a professional network of friends and experts in systems, design, development, and business,
+but I'm supported by a network of friends and seasoned experts in systems, design, development, and business,
 to whom I am grateful.
 
 I am a fixer. A pragmatist. I like to solve useful problems.
