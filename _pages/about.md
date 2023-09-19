@@ -15,7 +15,7 @@ title: "About"
 **Grimes IT, LLC** builds web applications, provides technical [services](/services/) to web-based businesses, and conducts original research and development.
 
 I’m **Jason Grimes**, owner and Principal Engineer. 
-I've been developing web applications a long time.
+I've been building web businesses for a long time.
 
 I do full-stack **JavaScript** with **Node, React, Next, Express**, and so on.
 I’ve written production **JavaScript** and **PHP** code since the dawn of both languages,
