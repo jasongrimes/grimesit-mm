@@ -62,7 +62,8 @@ I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
 ![full](/assets/images/feature-infrastructure.webp){: .full}
 
-From bare metal to cloud, server to VM to container to serverless, I've scaled real-world systems for decades. 
+From bare metal to cloud, 
+from server to VM to container to serverless, I've scaled real-world systems for decades. 
 Before that, I was a network engineer in Silicon Valley.
 For me the "full stack" goes down to TCP/IP.
 
