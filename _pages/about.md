@@ -25,9 +25,9 @@ I was a **sysadmin** in early **Linux**, **Unix**, and **Windows**
 and learned to program in **C, C++** and **Java**.
 Before that I was a **network engineer** in 1990s Silicon Valley installing computer labs and Internet in a dozen public schools.
 
-I helped start-up, scale and operate [**ProZ.com**](https://www.proz.com/),
-now the world’s largest network of professional translators and linguists,
-and a model bootstrapped small web business.
+I helped start-up, scale and operate [**ProZ.com**](https://www.proz.com/)
+into the world’s largest network of professional translators and linguists,
+and a profitable bootstrapped small web business.
 It was successful, so I did that awhile.
 
 Now I own [**Grimes IT, LLC**](https://grimesit.com),
