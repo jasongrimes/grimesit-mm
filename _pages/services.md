@@ -8,7 +8,7 @@ author_profile: true
 
 Grimes IT provides technical services to web-based businesses.
 
-## Full-stack web development
+## Full stack web development
 
 ![full](/assets/images/feature-development.webp){: .full}
 
