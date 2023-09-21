@@ -75,7 +75,7 @@ Containers are also useful because they can closely reproduce entire production 
 (databases, caches, cloud services, and all)
 and even simplify deployment, infrastructure, and operations.
 
-Visual Studio Code and Docker Desktop have made it easy to do development this way.
+Visual Studio Code and Docker Desktop have made it easier to do development this way.
 
 For new projects and quick changes, GitHub Codespaces can be an easy way to get a simple dev environment up and running, and to make quick changes on the fly, without having to hassle with creating a local dev environment first.
 
