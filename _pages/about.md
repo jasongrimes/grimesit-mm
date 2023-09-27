@@ -35,5 +35,5 @@ a small business building web applications and providing technical products and 
 I'm supported by a network of friends and seasoned experts in systems, design, development, and business,
 to whom I am grateful.
 
-I am a fixer. A pragmatist. I like to solve useful problems.
+I am a fixer. I like to solve useful problems.
 If I can solve a problem for you, please [contact](/contact/) me.
