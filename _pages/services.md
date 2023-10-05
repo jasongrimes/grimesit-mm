@@ -38,7 +38,7 @@ Data is the core of a web business, and it needs to be stored and used in a secu
 though NoSQL options like MongoDB can have their place.
 I spent many years pushing MySQL and Postgres to their early limits to scale web apps.
 I like common ORM libraries for basic database interactions,
-and I'm experienced using complex (yet performant) SQL to work with the more interesting cross-sections of data.
+and I'm experienced at using complex (yet performant) SQL to work with the more interesting cross-sections of data.
 
 Atop the core business data, many other technologies can be stacked in various combinations,
 to leverage or compile data for a variety of specialized purposes.
