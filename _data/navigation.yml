@@ -20,10 +20,10 @@ foot:
       - title: "Privacy"
         url: /privacy/
 
-  - title: Products
-    children:
-      - title: "Product designs"
-        url: /products/
+  #- title: Products
+  #  children:
+  #    - title: "Product designs"
+  #      url: /products/
 
   - title: Services
     children:
