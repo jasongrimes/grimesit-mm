@@ -6,26 +6,21 @@ toc_sticky: true
 author_profile: true
 ---
 
-Grimes IT provides technical services to grow web-based businesses.
+Grimes IT provides technical services to web-based businesses.
 
-## Full-stack web development
+## Full stack web development
 
 ![full](/assets/images/feature-development.webp){: .full}
 
-Grimes IT specializes in **web app development**---building software applications that run on the World Wide Web.
-
-What is **full stack** development?
-Think of the various technology choices for an app as being "layers" in a "stack".
-An app's tech stack is its collection of core technologies,
-and a full-stack developer works with them all.
-
-A web app stack typically includes layers for user interfaces, data, business logic, and APIs.
+Grimes IT specializes in **building web applications**--software applications that run on the World Wide Web.
+**Full stack development** means support for every technology layer used by the application,
+including user interfaces, data, business logic, APIs, infrastructure, development and deployment.
 
 ### User interfaces
 
 In modern web development, user interface often means **JavaScript**.
 
-I use client-side JavaScript frameworks like React, Vue, and Angular to provide rich user experiences.
+I use client-side JavaScript libraries like React, Vue, and Angular to provide rich user experiences.
 Additional "batteries included" frameworks like NextJS (for React) and NuxtJS (for Vue) can be helpful to add some server-side magic, and to simplify best practice and architecture decisions. 
 
 Some cases still call for old school SSR (server-side rendered) PHP applications.
@@ -39,11 +34,11 @@ The architecture should make it as convenient as possible for outside designers 
 
 Data is the core of a web business, and it needs to be stored and used in a secure and efficient way.
 
-A *relational* database like Postgres or MySQL is often a good choice for the core data store,
+*Relational* data stores like Postgres or MySQL are often a good choice for the core database,
 though NoSQL options like MongoDB can have their place.
 I spent many years pushing MySQL and Postgres to their early limits to scale web apps.
 I like common ORM libraries for basic database interactions,
-and I'm experienced using complex (yet performant) SQL to work with the more interesting cross-sections of data.
+and I'm experienced at using complex (yet performant) SQL to work with the more interesting cross-sections of data.
 
 Atop the core business data, many other technologies can be stacked in various combinations,
 to leverage or compile data for a variety of specialized purposes.
@@ -67,9 +62,10 @@ I also like GraphQL for solving some of the shortcomings of resource-based APIs.
 
 ![full](/assets/images/feature-infrastructure.webp){: .full}
 
-From bare metal to cloud, server to VM, container to serverless, I've scaled real-world systems for decades. 
+From bare metal to cloud, 
+from server to VM to container to serverless, I've scaled real-world systems for decades. 
 Before that, I was a network engineer in Silicon Valley.
-For me the "full stack" goes down to TCP/IP.
+For me the "full stack" includes the OSI networking model.
 
 ### Development environments
 
@@ -79,7 +75,7 @@ Containers are also useful because they can closely reproduce entire production 
 (databases, caches, cloud services, and all)
 and even simplify deployment, infrastructure, and operations.
 
-Visual Studio Code and Docker Desktop have made it easy to do development this way.
+Visual Studio Code and Docker Desktop have made it easier to do development this way.
 
 For new projects and quick changes, GitHub Codespaces can be an easy way to get a simple dev environment up and running, and to make quick changes on the fly, without having to hassle with creating a local dev environment first.
 
