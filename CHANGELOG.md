@@ -4,9 +4,9 @@ Captain's log. A secret history of Grimes IT.
 
 ## October 9, 2023
 
-I think of October 1 as the birthday of the new Grimes IT--it's my first day working at Grimes IT full time. So today is the start of the second week.
+October 1 is the commemorated birthday of the new Grimes IT--it's my first day working at Grimes IT full time, though I began filing paperwork and opening accounts on August 27. So today is the start of the company's second full week, and I thought I should take a quick snapshot for history. 
 
-At this, a lot of the basic business infrastructure in place.
+By this point, a lot of the basic business infrastructure in place.
 
 - Registered Grimes IT, LLC with the NC Secretary of State.
 - Opened a Grimes IT checking account, a business credit card, and a couple high-yield savings accounts for startup capital and tax set-asides.
