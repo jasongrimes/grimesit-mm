@@ -4,7 +4,7 @@ Captain's log. A secret history of Grimes IT.
 
 ## October 9, 2023
 
-October 1 is the commemorated birthday of the new Grimes IT--my first day working at Grimes IT full time, though I began filing paperwork and opening accounts on August 27. So today is the start of the company's second full week, and I thought I should take a quick snapshot for history. 
+October 1 is the commemorated birthday of the new Grimes IT--my first day working at Grimes IT full time (though I began filing paperwork and opening accounts on August 27). So today is the start of the company's second full week, and I thought I should take a quick snapshot for history. 
 
 By this point, a lot of the basic business infrastructure in place.
 
