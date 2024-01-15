@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Grimes IT, LLC
 subtitle: "Creator of fine technology"
-email: contact@grimesit.com
+email: hello@grimesit.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Scale your web app. Choose an experienced technical partner 
-  develop and scale your JavaScript or PHP web application.
+  Software and DevOps Consulting. Choose a proven technical partner 
+  to solve your business problems with modern internet technologies.
 github_username: jasongrimes
 #twitter_username: jason_grimes
 minimal_mistakes_skin: dark
@@ -58,10 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jason Grimes"
-  avatar : "/assets/images/jg-headshot-iceland-320x320.webp"
+  name: "Jason Grimes"
+  avatar: "/assets/images/jg-headshot-iceland-320x320.webp"
   home: "/about/"
-  bio: "[Owner and Principal Engineer of Grimes IT](/about/)"
+  bio: "[Owner and lead engineer behind Grimes IT](/about/)"
   location: "Raleigh, NC"
   links:
     - label: "GitHub"
