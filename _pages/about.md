@@ -12,28 +12,25 @@ title: "About"
 #  Creator of fine technology
 ---
 
-**Grimes IT, LLC** builds web applications, provides technical [services](/services/) to web-based businesses, and conducts original research and development.
+**Grimes IT, LLC** solves business problems with internet technologies, specializing in custom web applications, technical [services](/services/), and original research and development.
 
-I’m **Jason Grimes**, owner and Principal Engineer. 
-I've been building web applications a long time.
+I’m **Jason Grimes**, owner and lead engineer.
+I've been growing businesses on the Internet for a long time.
 
-I do **full-stack JavaScript** development with **Node, React, Next, Express**, and so on.
-I’ve written production **JavaScript** and **PHP** code since the dawn of both languages,
-as they matured into serious technologies that run the modern web.
-Before **specializing in web apps**
-I was a **sysadmin** in early **Linux**, **Unix**, and **Windows**
+I build web applications and scale internet infrastructure, and have since the dawn of the World Wide Web.
+Before specializing in **web development** and **DevOps**
+I was a **sysadmin** on early **Unix/Linux** and **Windows**
 and learned to program in **C, C++** and **Java**.
-Before that I was a **network engineer** in 1990s Silicon Valley installing computer labs and Internet in a dozen public schools.
+Before that I was a **network engineer** in 1990s Silicon Valley installing computer labs and internet access in public schools.
 
 I helped start-up, scale, and operate [**ProZ.com**](https://www.proz.com/),
 the world’s largest network of professional translators and linguists,
-and a profitable bootstrapped small web business.
-It was successful, so I did that awhile.
+and a profitable bootstrapped small company.
+It was a remarkably successful web business, so I did that a long time.
 
 Now I own [**Grimes IT, LLC**](https://grimesit.com),
-a small business building web applications and providing technical products and services.
-I'm supported by a network of friends and seasoned experts in systems, design, development, and business,
-to whom I am grateful.
+a software and DevOps consulting firm providing technical products and services and conducting original research and development.
+I'm supported by a network of friends and seasoned experts in systems, design, development, and business, with whom I am proud to associate.
 
-I am a fixer. I like to solve useful problems.
-If I can solve a problem for you, please [contact](/contact/) me.
+I solve problems. I understand techology.
+If you have technology-related problems, please [contact](/contact/) me to learn how I can help.
