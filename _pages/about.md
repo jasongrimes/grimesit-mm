@@ -15,7 +15,7 @@ title: "About"
 Grimes IT, LLC solves business problems with internet technologies, specializing in custom web applications, technical [services](/services/), and original research and development.
 
 I’m Jason Grimes, owner and lead engineer.
-I've been growing businesses on the Internet for a long time.
+I've been growing companies on the Internet for a long time.
 
 I build web applications and scale internet infrastructure, and have since the dawn of the World Wide Web.
 Before specializing in web development and DevOps
@@ -29,7 +29,7 @@ and a profitable bootstrapped small company.
 It was a remarkably successful web business, so I did that a long time.
 
 Now I own [Grimes IT, LLC](https://grimesit.com),
-a software and DevOps consulting firm providing technical products and services and conducting original research and development.
+a software and DevOps consulting firm providing technical products and services.
 I'm supported by a network of friends and seasoned experts in systems, design, development, and business, with whom I am proud to associate.
 
 I solve problems. I understand techology.
