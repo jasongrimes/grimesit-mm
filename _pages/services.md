@@ -127,7 +127,7 @@ When new architectures are required, it's often most practical to run them in pa
 keeping them both running for as long as it's needed.
 This requires the architecture to be split somehow,
 to allow simultaneous work on both the old and new.
-The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a useful way to think about this challenge.
+(The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) can be a useful way to think about this challenge.)
 
 Code review and training keeps the legacy codebase gradually improving, along with the team that maintains it.
 Grimes IT provides code review as a service and customized training.
@@ -158,4 +158,4 @@ practical testing and monitoring, mentorship and training, and a bit of patience
 
 ## Estimate your project
 
-Does your business need help with technical challenges like this? [Contact Grimes IT](/contact/) today.
+Does your business need help with technical challenges like this? [Contact Grimes IT](/contact/) today to learn how we can help.
