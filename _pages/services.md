@@ -81,16 +81,16 @@ the general idea being the more it costs, the less work you have to do yourself,
 and vice versa.
 Every business has to find its own sweet spot for its own needs and budget.
 
-For new or experimental applications, full-featured **managed platform** providers like Vercel, Heroku, or Digital Ocean can be useful.
+For new or experimental applications, full-featured managed platform providers like Vercel, Heroku, or Digital Ocean can be useful.
 But they tend to become overly expensive beyond early stages.
 
-**Managed service** providers can be valuable for specializing in particularly complex or important parts of the stack,
+Managed service providers can be valuable for specializing in particularly complex or important parts of the stack,
 like databases and network services.
 Just beware of vendor lock-in.
 
-As a business scales, **infrastructure services** like Amazon AWS, Microsoft Azure, and Google Cloud tend to become more economical choices.
+As a business scales, infrastructure services like Amazon AWS, Microsoft Azure, and Google Cloud tend to become more economical choices.
 
-**Bare metal** servers can still be run in this day and age,
+Bare metal servers can still be run in this day and age,
 and can save a business a lot of money compared to cloud infrastructure services,
 if you have people who can manage them.
 
@@ -114,8 +114,8 @@ Successful applications endure, and technical debt accumulates.
 ### Getting the legacy codebase unstuck
 
 Legacy codebases are often poorly understood by the team that inherited them.
-Often the best way to approach them is by creating some good documentation about them.
-That gets everyone literally on the same page about important parts of the software and the business,
+Often the best way to approach them is by creating some good documentation.
+This gets everyone literally on the same page about important parts of the software and the business,
 and it's a valuable work product to deliver a client early in a project.
 
 Since legacy codebases can be fragile and risky to change,
