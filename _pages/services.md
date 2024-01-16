@@ -81,16 +81,16 @@ the general idea being the more it costs, the less work you have to do yourself,
 and vice versa.
 Every business has to find its own sweet spot for its own needs and budget.
 
-For new or experimental applications, full-featured **managed platform** providers like Vercel, Heroku, or Digital Ocean can be useful.
+For new or experimental applications, full-featured managed platform providers like Vercel, Heroku, or Digital Ocean can be useful.
 But they tend to become overly expensive beyond early stages.
 
-**Managed service** providers can be valuable for specializing in particularly complex or important parts of the stack,
+Managed service providers can be valuable for specializing in particularly complex or important parts of the stack,
 like databases and network services.
 Just beware of vendor lock-in.
 
-As a business scales, **infrastructure services** like Amazon AWS, Microsoft Azure, and Google Cloud tend to become more economical choices.
+As a business scales, infrastructure services like Amazon AWS, Microsoft Azure, and Google Cloud tend to become more economical choices.
 
-**Bare metal** servers can still be run in this day and age,
+Bare metal servers can still be run in this day and age,
 and can save a business a lot of money compared to cloud infrastructure services,
 if you have people who can manage them.
 
@@ -114,8 +114,8 @@ Successful applications endure, and technical debt accumulates.
 ### Getting the legacy codebase unstuck
 
 Legacy codebases are often poorly understood by the team that inherited them.
-Often the best way to approach them is by creating some good documentation about them.
-That gets everyone literally on the same page about important parts of the software and the business,
+Often the best way to approach them is by creating some good documentation.
+This gets everyone literally on the same page about important parts of the software and the business,
 and it's a valuable work product to deliver a client early in a project.
 
 Since legacy codebases can be fragile and risky to change,
@@ -124,10 +124,10 @@ detecting problems before and after deployment,
 and making it easier to revert when needed.
 
 When new architectures are required, it's often most practical to run them in parallel with the legacy application,
-keeping them both running for as long as it's needed.
+keeping them both running for as long as needed.
 This requires the architecture to be split somehow,
 to allow simultaneous work on both the old and new.
-The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) is a useful way to think about this challenge.
+(The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) can be a useful way to think about this challenge.)
 
 Code review and training keeps the legacy codebase gradually improving, along with the team that maintains it.
 Grimes IT provides code review as a service and customized training.
@@ -158,4 +158,4 @@ practical testing and monitoring, mentorship and training, and a bit of patience
 
 ## Estimate your project
 
-Does your business need help with technical challenges like this? [Contact Grimes IT](/contact/) today.
+Does your business need help with technical challenges like this? [Contact Grimes IT](/contact/) today to learn how we can help.
