@@ -21,7 +21,7 @@ I build web applications and scale internet infrastructure, and have since the d
 Before specializing in **web development** and **DevOps**
 I was a **sysadmin** on early **Unix/Linux** and **Windows**
 and learned to program in **C, C++** and **Java**.
-Before that I was a **network engineer** in 1990s Silicon Valley installing computer labs and internet access in public schools.
+Before that I was a **network engineer** in 1990s Silicon Valley installing internet access and computer labs in public schools.
 
 I helped start-up, scale, and operate [**ProZ.com**](https://www.proz.com/),
 the world’s largest network of professional translators and linguists,
