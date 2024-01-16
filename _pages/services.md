@@ -124,7 +124,7 @@ detecting problems before and after deployment,
 and making it easier to revert when needed.
 
 When new architectures are required, it's often most practical to run them in parallel with the legacy application,
-keeping them both running for as long as it's needed.
+keeping them both running for as long as needed.
 This requires the architecture to be split somehow,
 to allow simultaneous work on both the old and new.
 (The ["Strangler Fig" design pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) can be a useful way to think about this challenge.)
