@@ -66,11 +66,11 @@ For me, the "full stack" includes the network protocols.
 
 I like to run development environments in Docker containers now,
 so developers can install whatever mad dependency a project might require without messing up their own computers.
-Containers allow developers to can closely reproduce entire production environments
+Containers allow developers to closely reproduce entire production environments
 (databases, caches, cloud services, and all)
 and can simplify deployment, infrastructure, and operations.
 
-Tools like Visual Studio Code and Docker Desktop have made it vastly easier to do development in this way.
+Tools like VSCode and Docker Desktop have made it vastly easier to do development in this way.
 
 For new projects and quick changes, web-based development environments like GitHub Codespaces, StackBlitz, and CodeSandbox can be an easy way for developers to get up and running almost instantly and to make quick changes on the fly.
 
