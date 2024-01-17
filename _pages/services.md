@@ -21,9 +21,9 @@ including user interfaces, databases, business logic, server-side APIs, infrastr
 
 In modern web development, user interface often means **JavaScript**.
 
-I use modern JavaScript frameworks to provide rich user experiences,
-along with old-school server-side workhorses like PHP and Ruby for tried-and-true applications,
-and Go for high-performance backend services.
+I use modern JavaScript frameworks to provide rich user experiences and rapid backend development,
+Go for high performance backend services,
+and old-school server-side workhorses like PHP and Ruby for tried-and-true applications.
 
 I enjoy working with modern technologies, but I'm not too cool to roll up my sleeves and dig into old PHP codebases and third-party ecosystems like WordPress.
 
