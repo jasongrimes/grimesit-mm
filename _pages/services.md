@@ -39,7 +39,7 @@ Relational data stores like Postgres and MySQL are often a good choice for the c
 NoSQL options like MongoDB and Redis also have their place.
 I spent many years pushing MySQL and Postgres to their early limits to scale growing web applications.
 ORM libraries can be great for basic database interactions,
-but I'm well experienced with complex and performant SQL for making the most of valuable business data.
+but I'm well-experienced with complex and performant SQL for making the most of valuable business data.
 
 ### Business logic and APIs
 
