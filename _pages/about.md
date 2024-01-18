@@ -32,5 +32,5 @@ Now I own [Grimes IT, LLC](https://grimesit.com),
 a software and DevOps consulting firm providing technical products and services.
 I'm supported by a network of friends and seasoned experts in systems, design, development, and business, with whom I am proud to associate.
 
-I solve problems. I understand techology.
+I solve problems. I understand technology.
 If you have technology-related problems, please [contact](/contact/) me to learn how I can help.
