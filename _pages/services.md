@@ -116,7 +116,7 @@ Successful applications endure, and technical debt accumulates.
 Legacy codebases are often poorly understood by the team that inherited them.
 Often the best way to approach them is by creating some good documentation.
 This gets everyone literally on the same page about important parts of the software and the business,
-establishes relationships with all the key stakeholders and domain experts,
+establishes relationships with key stakeholders and domain experts,
 and delivers a valuable work product to the client early in a project.
 
 Since legacy codebases can be fragile and risky to change,
