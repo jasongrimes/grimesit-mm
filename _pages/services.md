@@ -21,9 +21,9 @@ including user interfaces, databases, business logic, server-side APIs, infrastr
 
 In modern web development, user interface often means **JavaScript**.
 
-I use modern JavaScript frameworks to provide rich user experiences,
-along with old-school server-side workhorses like PHP and Ruby for tried-and-true applications,
-and modern languages like Rust and Go for high-performance services.
+I use modern JavaScript frameworks to provide rich user experiences and rapid backend development,
+along with Go as needed for high performance backend services,
+and old-school server-side workhorses like PHP and Ruby for tried-and-true applications.
 
 I enjoy working with modern technologies, but I'm not too cool to roll up my sleeves and dig into old PHP codebases and third-party ecosystems like WordPress.
 
@@ -39,7 +39,7 @@ Relational data stores like Postgres and MySQL are often a good choice for the c
 NoSQL options like MongoDB and Redis also have their place.
 I spent many years pushing MySQL and Postgres to their early limits to scale growing web applications.
 ORM libraries can be great for basic database interactions,
-but I'm well experienced with complex and performant SQL for making the most of valuable business data.
+but I'm well-experienced with complex and performant SQL for making the most of valuable business data.
 
 ### Business logic and APIs
 
@@ -116,7 +116,8 @@ Successful applications endure, and technical debt accumulates.
 Legacy codebases are often poorly understood by the team that inherited them.
 Often the best way to approach them is by creating some good documentation.
 This gets everyone literally on the same page about important parts of the software and the business,
-and it's a valuable work product to deliver a client early in a project.
+establishes relationships with key stakeholders and domain experts,
+and delivers a valuable work product to the client early in a project.
 
 Since legacy codebases can be fragile and risky to change,
 basic testing and monitoring are needed to make changes safer,
