@@ -8,5 +8,9 @@ Uses the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mi
 
 ```
 bundle install
+```
+
+```
+rvm use ruby-3.2.1
 bundle exec jekyll serve
 ```

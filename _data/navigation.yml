@@ -1,8 +1,10 @@
 main:
   - title: "Services"
     url: /services/
-  - title: "Articles"
-    url: /articles/
+  - title: "Products"
+    url: /products/
+  # - title: "Articles"
+  #   url: /articles/
   - title: "About"
     url: /about/
   - title: "Contact"
@@ -20,11 +22,6 @@ foot:
       - title: "Privacy"
         url: /privacy/
 
-  #- title: Products
-  #  children:
-  #    - title: "Product designs"
-  #      url: /products/
-
   - title: Services
     children:
       - title: "Web development"
@@ -34,8 +31,19 @@ foot:
       - title: "Legacy"
         url: /services/#modernizing-legacy-applications
 
+  - title: Products
+    children:
+      - title: "Fret It"
+        url: https://fretit.io/
+      - title: "Book"
+        url: https://fretboardfoundation.com/
+      - title: "More"
+        url: /products/
+
   - title: Resources
     children:
+      # - title: "Tools"
+      #   url: /products/
       - title: "Articles"
         url: /articles/
       - title: "Code"
