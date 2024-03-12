@@ -12,7 +12,8 @@ title: "About"
 #  Creator of fine technology
 ---
 
-Grimes IT, LLC solves business problems with internet technologies, specializing in custom web applications, technical [services](/services/), and original research and development.
+Grimes IT, LLC solves business problems with internet technologies, specializing in custom web applications, technical [services](/services/),
+and [original research](/products/) and development.
 
 I’m Jason Grimes, owner and lead engineer.
 I've been growing companies on the Internet for a long time.
