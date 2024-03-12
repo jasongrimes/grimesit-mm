@@ -33,7 +33,7 @@ foot:
 
   - title: Services
     children:
-      - title: "Web development"
+      - title: "Software"
         url: /services/#full-stack-web-development
       - title: "Infrastructure"
         url: /services/#web-infrastructure
