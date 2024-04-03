@@ -3,9 +3,10 @@ permalink: /products/
 title: "Products"
 ---
 
-## Music products
+Grimes IT has a soft spot for musicians, and specializes in products for music teachers.
 
-Grimes IT has a soft spot for musicians, and we're proud to serve them when we can.
+**[Music Teacher Tech](https://music-teacher-tech.com)** serves music teachers with technology for growing their businesses and improving people’s lives through music education.
+Featuring fully managed WordPress web hosting for music educators.
 
 **[Fretboard Foundation](https://fretboardfoundation.com)** is an online platform for learning guitar, using a novel and practical method.
 

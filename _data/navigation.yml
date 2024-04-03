@@ -24,15 +24,17 @@ foot:
 
   - title: Products
     children:
+      - title: "Music<br>Teachers"
+        url: https://music-teacher-tech.com/
       - title: "Fretboard<br>Foundation"
         url: https://fretboardfoundation.com/
-      - title: "Fret It"
-        url: https://fretit.io/
-      - title: "More"
+      - title: "More..."
         url: /products/
 
   - title: Services
     children:
+      - title: "Web Hosting"
+        url: https://music-teacher-tech.com
       - title: "Software"
         url: /services/#full-stack-web-development
       - title: "Infrastructure"
@@ -40,7 +42,6 @@ foot:
       - title: "Modernization"
         url: /services/#modernizing-legacy-applications
 
-  
   - title: Resources
     children:
       # - title: "Tools"
